@@ -47,6 +47,10 @@ Bộ sưu tập đầy đủ danh tính, câu chuyện và thành tích xuất s
 
 ### 📊 3. Khối Ngành Kinh Doanh & Quản Lý (FBM)
 
+* **Hồ Thị Quỳnh Anh (SV Khóa 1 - Ngành Quản trị Kinh doanh):**
+  - Gương mặt nổi bật của chuỗi bài viết **#CMC_OJT360** (Phòng Công tác sinh viên CMCU).
+  - Xuất sắc đạt **9.9 điểm Đánh giá thực tập OJT** tại *Ban Kiểm toán Nội bộ & Quản trị rủi ro – Tập đoàn Công nghệ CMC (CMC Corporation)* và **9.5 điểm Khóa luận tốt nghiệp**.
+  - Chia sẻ 3 bí quyết OJT: chủ động tìm hiểu tài liệu khi rảnh, phân bổ thời gian làm khóa luận khoa học, luôn giữ thái độ cầu thị và mạnh dạn trao đổi với giảng viên và đồng nghiệp.
 * **Ngô Tiến Công (SV Khóa 2 - Ngành Quản trị Kinh doanh / Digital Marketing):**
   - Báo cáo và trình bày tham luận khoa học trực tiếp tại **Hội thảo Khoa học Quốc tế ACBES 2026**.
 * **Đỗ Hoàng Hiếu (SV Khóa 2 - Ngành Quản trị Kinh doanh):**
