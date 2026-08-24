@@ -7,8 +7,14 @@ Bộ sưu tập đầy đủ danh tính, câu chuyện và thành tích xuất s
 ## 🎓 I. GƯƠNG MẶT SINH VIÊN TIÊU BIỂU (THEO KHỐI NGÀNH)
 
 ### 💻 1. Khối Ngành Công Nghệ Thông Tin, AI & Khoa Học Máy Tính (FICT)
+
+* **Nguyễn Bình Nam (Cựu SV Khóa 1 - Ngành CNTT):**
+  - Xuất sắc giành **Học bổng Thạc sĩ toàn phần Châu Âu Erasmus Mundus CYBERMACS (giai đoạn 2026–2028)** trị giá gần **50.000€ (tương đương 1,3 tỷ VNĐ)** chuyên ngành An ninh mạng tại các đại học hàng đầu Châu Âu.
+* **Nguyễn Tấn Phát (CNTT), Lê Tuấn Linh (KHMT K2), Hoàng Cát Tường (KHMT K2), Phạm Như Thắng (KHMT K2):**
+  - Nhóm tác giả đề tài nghiên cứu khoa học: *“Xây dựng hệ thống phát hiện người trên biển từ ảnh UAV”*.
+  - Ứng dụng Computer Vision & Deep Learning từ thiết bị bay không người lái để hỗ trợ cứu nạn hàng hải; xuất sắc đoạt Giải Nhì Hội nghị Sinh viên NCKH Trường Đại học CMC.
 * **Phạm Quốc An (Cựu SV Khóa 1 - Ngành CNTT):**
-  - Kỹ sư AI & Automation tại doanh nghiệp quốc tế ngay sau khi tốt nghiệp.
+  - Trở thành Kỹ sư AI & Automation tại doanh nghiệp công nghệ quốc tế ngay sau khi tốt nghiệp.
   - Tiên phong tham gia các dự án phát triển mô hình tự động hóa quy trình nghiệp vụ thông minh bằng AI.
 * **Nguyễn Lê Hoàng (SV Khóa 4 - Ngành CNTT):**
   - **Thủ khoa Khóa 4** Trường Đại học CMC; Đoạt **Huy chương Vàng Olympic Toán học sinh viên toàn quốc 2026**.
@@ -24,14 +30,23 @@ Bộ sưu tập đầy đủ danh tính, câu chuyện và thành tích xuất s
   - Phó Bí thư Liên chi đoàn, "ngọn đuốc xanh" trong phong trào sinh viên và là nhà nghiên cứu trẻ đạt giải Nhất NCKH.
 * **Phan Thị Phương Linh (SV Khóa 2 - Ngành CNTT):**
   - Gương mặt nữ sinh tài năng khẳng định bản lĩnh trong lĩnh vực Trí tuệ nhân tạo và Machine Learning.
-* **Nhóm sinh viên Khóa 1 phát triển Hệ thống cứu nạn từ UAV:**
-  - Ứng dụng Computer Vision trên thiết bị bay không người lái (UAV) để tự động phát hiện người bị nạn trên biển phục vụ cứu hộ thực tế.
-* **Sinh viên Khóa 1 nhận Học bổng Erasmus Mundus:**
-  - Giành học bổng Thạc sĩ toàn phần danh giá **CYBERMACS** trị giá 1,3 tỷ VNĐ đào tạo An ninh mạng tại Châu Âu.
 
 ---
 
-### 📊 2. Khối Ngành Kinh Doanh & Quản Lý (FBM)
+### 🎨 2. Khối Ngành Mỹ Thuật & Thiết Kế (FAD)
+
+* **Vũ Chiến Thắng (SV năm Nhất - Ngành Thiết kế Đồ họa):**
+  - Xuất sắc giành ngôi vị **Quán quân Quốc gia Cuộc thi Vô địch Thiết kế Đồ họa Thế giới (ACP World Championship 2026)** với tác phẩm *“Tuổi trẻ tiên phong”*.
+  - Trở thành 1 trong 3 đại diện chính thức của Việt Nam tham dự Vòng chung kết Thế giới tại California, Hoa Kỳ vào tháng 7/2026.
+* **28 Sinh viên xuất sắc Khoa Mỹ thuật & Thiết kế:**
+  - Nhận học bổng chuyên sâu trị giá 100% và 50% từ **Học viện Đào tạo Hoạt hình Quốc tế Sconnect** (nhà sản xuất series hoạt hình toàn cầu Wolfoo) về diễn hoạt 2D/3D và sản xuất hoạt hình.
+* **Lê Thị Thu Hằng (SV Ngành Thiết kế Đồ họa):**
+  - Đưa nghệ thuật hoa văn, trang phục truyền thống dân tộc Thái vào các sản phẩm thiết kế đồ họa số hiện đại, tỏa sáng trong cuộc thi tài năng sinh viên toàn trường CMCU RISE 2026.
+
+---
+
+### 📊 3. Khối Ngành Kinh Doanh & Quản Lý (FBM)
+
 * **Ngô Tiến Công (SV Khóa 2 - Ngành Quản trị Kinh doanh / Digital Marketing):**
   - Báo cáo và trình bày tham luận khoa học trực tiếp tại **Hội thảo Khoa học Quốc tế ACBES 2026**.
 * **Đỗ Hoàng Hiếu (SV Khóa 2 - Ngành Quản trị Kinh doanh):**
@@ -47,26 +62,19 @@ Bộ sưu tập đầy đủ danh tính, câu chuyện và thành tích xuất s
 
 ---
 
-### 🎨 3. Khối Ngành Mỹ Thuật & Thiết Kế (FAD)
-* **Sinh viên Quán quân Quốc gia Thiết kế Đồ họa Thế giới (ACP Championship 2026):**
-  - Giành ngôi vị Quán quân Quốc gia, trở thành đại diện chính thức của Việt Nam tranh tài tại Vòng chung kết Thế giới tại Hoa Kỳ.
-* **28 Sinh viên FAD nhận Học bổng Sconnect Academy:**
-  - Nhận học bổng chuyên sâu trị giá 100% và 50% về sản xuất phim hoạt hình 2D/3D và nghệ thuật diễn hoạt từ nhà sản xuất Wolfoo.
-* **Nữ sinh tài năng CMCU RISE:**
-  - Đưa nghệ thuật hoa văn dân tộc Thái vào các đồ án thiết kế mỹ thuật số, tỏa sáng trong cuộc thi tài năng sinh viên toàn trường.
-
----
-
 ### 🌏 4. Khối Ngành Ngôn Ngữ & Hội Nhập Quốc Tế (FLC)
+
 * **Tạ Thùy Trang (SV Khóa 2 - Ngành Ngôn ngữ Hàn Quốc):**
   - Xuất sắc giành **Học bổng Toàn phần của Chính phủ Hàn Quốc (GKS - Global Korea Scholarship)**.
 * **Chu Thị Hồng Ngọc (SV Khóa 2 - Ngành Ngôn ngữ Hàn Quốc):**
-  - Trải nghiệm thực tập OJT và sớm nhận lời mời làm việc tại các tập đoàn Hàn Quốc (Samsung, Woori Bank) nhờ mô hình Tiếng Hàn Thương mại.
-* **Nguyễn Minh Châu (SV Khóa 1 - Ngành Ngôn ngữ Nhật, Lớp 22JL):**
+  - Trải nghiệm thực tập OJT và sớm nhận lời mời làm việc tại các tập đoàn Hàn Quốc (Samsung, Woori Bank) nhờ mô hình Tiếng Hàn Thương mại kết hợp CNTT.
+* **Nguyễn Minh Châu (SV Khóa 1, Lớp 22JL - Ngành Ngôn ngữ Nhật):**
   - Chinh phục vị trí thực tập Biên phiên dịch Nhật - Việt và Kỹ sư cầu nối IT (BrSE) ngay từ năm 3.
+* **Nguyễn Lê Trà Giang (SV Khóa 4 - Ngành Ngôn ngữ Trung Quốc):**
+  - Nhận học bổng CMC Sáng tạo 70% học phí; tích cực tham gia các dự án liên kết văn hóa và chương trình song bằng 2+2 với ĐH Sư phạm Thủ đô Bắc Kinh.
 * **Mai Thị Hằng (SV Khóa 3 - Khoa Ngôn ngữ):**
   - Sáng lập và điều hành dự án xã hội *"Hạnh phúc ở đây"*, lan tỏa tinh thần sống tích cực đến hàng ngàn bạn trẻ.
-* **Thủ khoa người dân tộc Dao Tuyển & Dân tộc Tày:**
+* **Chảo Láo Tả (Thủ khoa dân tộc Dao Tuyển) & Hoàng Văn Hải (Thủ khoa dân tộc Tày):**
   - Vượt khó vươn lên giành học bổng 100% toàn phần từ Quỹ *"CMC – Vì bạn xứng đáng"*.
 
 ---
