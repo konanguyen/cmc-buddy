@@ -168,7 +168,6 @@ Trường Đại học CMC đặc biệt chú trọng xây dựng đội ngũ gi
 - Khoa ĐC
 - Trung tâm NN&KN
 
-PGS. TS. Nguyễn Thanh TùngHiệu trưởng, Giảng viên Khoa Công nghệ Thông tin & Truyền thôngPGS. TS. Nguyễn Hữu QuỳnhPhó Hiệu trưởng, Giảng viên Khoa Công nghệ Thông tin & Truyền thôngPGS. TS. Vũ Việt VũTrưởng Khoa, Giảng viên khoa Công nghệ Thông tin & Truyền thôngPGS. TS. Trương Anh HoàngGiảng viên Khoa Công nghệ Thông tin & Truyền thôngTS. Phạm Thị Anh LêGiảng viên Khoa Công nghệ Thông tin & Truyền thôngTS. Hoàng Tiểu BìnhGiảng viên Khoa Công nghệ Thông tin & Truyền thôngTS. Ngô Minh ThànhGiảng viên Khoa Công nghệ Thông tin & Truyền thôngTS. Nguyễn Ngọc TânGiảng viên Khoa Công nghệ Thông tin và Truyền thôngThS. Nguyễn Thị Vân AnhGiảng viên Khoa Công nghệ Thông tin & Truyền thôngThS. Nguyễn Đức AnGiảng viên Khoa Công nghệ Thông tin & Truyền thôngThS. Nguyễn Tiến ĐồngGiảng viên Khoa Công nghệ Thông tin & Truyền thôngThS. Ngô Việt AnhGiảng viên Khoa Công nghệ Thông tin & Truyền thôngThS. Nguyễn Đức GiangGiảng viên Khoa Công nghệ Thông tin & Truyền thôngThS. Nguyễn Khánh SơnGiảng viên Khoa Công nghệ Thông tin & Truyền thôngThS. Phạm Ngọc ĐôngGiảng viên Khoa Công nghệ Thông tin & Truyền thôngThS. Trần Cao TườngGiảng viên Khoa Công nghệ Thông tin & Truyền thôngThS. Vũ Văn TiệpGiảng viên Khoa Công nghệ Thông tin & Truyền thôngThS. Trần Đức DũngGiảng viên Khoa Công nghệ Thông tin & Truyền thôngThS. Lê Hồng DuyGiảng viên Khoa Công nghệ Thông tin & Truyền thôngThS. Phạm Tuấn AnhGiảng viên Khoa Công nghệ Thông tin & Truyền thôngThS. Nguyễn Quang DuyGiảng viên Khoa Công nghệ Thông tin & Truyền thôngNCS Ths Lê Minh TúGiảng viên khoa Công nghệ thông tin và Truyền thôngNCS.Ths Lê KiênGiảng viên khoa Công nghệ thông tin và Truyền thông
 
 ### PGS. TS. Nguyễn Thanh Tùng
 
@@ -228,7 +227,6 @@ Giảng viên khoa Công nghệ thông tin và Truyền thông
 
 ### NCS.Ths Lê Kiên
 
-TS. Lê Tiến TrungTrưởng Khoa, Giảng viên Khoa Kinh doanh và Quản lýPGS. TS. Vũ Trí DũngGiảng viên Khoa Kinh doanh và Quản lýTS. Nguyễn Trà MyGiảng viên Khoa Kinh doanh và Quản lýTS. Phạm Thị HàGiảng viên Khoa Kinh doanh và Quản lýTS. Phạm Đình ThưởngGiảng viên Khoa Kinh doanh và Quản lýTS. Ngô Trí TrungGiảng viên Khoa Kinh doanh và Quản lýNCS. ThS. Trương Thùy TrangGiảng viên Khoa Kinh doanh và Quản lýNCS. ThS. Đỗ Minh ThuGiảng viên Khoa Kinh doanh và Quản lýNCS. ThS. Ngô Thế NamGiảng viên Khoa Kinh doanh và Quản lýNCS.ThS Nguyễn Minh NhậtGiảng viên Khoa Kinh doanh và Quản lýThS. Trần Thị YếnGiảng viên Khoa Kinh doanh và Quản lýThS. Đào Khánh LinhGiảng viên Khoa Kinh doanh và Quản lýThS. Nguyễn Thị Thu HoàiGiảng viên Khoa Kinh doanh và Quản lýThS. Trần Thanh BìnhGiảng viên Khoa Kinh doanh và Quản lýThS. Trần Minh TrangGiảng viên Khoa Kinh doanh và Quản lýThS. Mai MaiGiảng viên Khoa Kinh doanh và Quản lýThS. Lương Hồng VânGiảng viên Khoa Kinh doanh và Quản lýThS. Lê Quỳnh AnhGiảng viên Khoa Kinh doanh và Quản lýThS. Nguyễn Thanh MaiGiảng viên Khoa Kinh doanh và Quản lýThS. Bùi Thị Trang AnhGiảng viên Khoa Kinh doanh và Quản lý
 
 ### TS. Lê Tiến Trung
 
@@ -274,7 +272,6 @@ Giảng viên Khoa Kinh doanh và Quản lý
 
 ### ThS. Bùi Thị Trang Anh
 
-NCS. ThS. Nguyễn Minh KiênPhó Trưởng Khoa, Giảng viên khoa Mỹ thuật và Thiết kếTS. Nguyễn Thị Hà ChâuGiảng viên Khoa Mỹ thuật và Thiết kếThS. Bùi Quỳnh GiangGiảng viên Khoa Mỹ thuật và Thiết kếThS. Nguyễn Khánh VânGiảng viên Khoa Mỹ thuật và Thiết kếThS. Trần Ngọc AnhGiảng viên Khoa Mỹ thuật và Thiết kếThS. Nguyễn Đức ThuậnGiảng viên Khoa Mỹ thuật và Thiết kếThS. Trần Huyền ThanhGiảng viên Khoa Mỹ thuật và Thiết kếThS. Nguyễn Minh TrungGiảng viên Khoa Mỹ thuật và Thiết kếThS. Nguyễn Trúc Huyền MyGiảng viên Khoa Mỹ thuật và Thiết kếThS. Nguyễn Thị TìnhGiảng viên Khoa Mỹ thuật và Thiết kếThS. Trịnh Khánh LyGiảng viên Khoa Mỹ thuật và Thiết kếThS. Hoàng TuấnGiảng viên Khoa Mỹ thuật và Thiết kếThS. Nguyễn Thị Thanh HươngGiảng viên Khoa Mỹ thuật và Thiết kếThS. Nguyễn Tú AnhGiảng viên Khoa Mỹ thuật và Thiết kếThS Nguyễn Thị LyGiảng viên Khoa Mỹ thuật và Thiết kếThS Phạm Đăng KhuêGiảng viên Khoa Mỹ thuật và Thiết kếThS Trần Anh MinhGiảng viên Khoa Mỹ thuật và Thiết kếThS Lê Ánh NgọcGiảng viên khoa Mỹ thuật và Thiết kếThs Nguyễn Minh ĐứcGiảng viên khoa Mỹ thuật và Thiết kế
 
 ### NCS. ThS. Nguyễn Minh Kiên
 
@@ -320,7 +317,6 @@ Giảng viên khoa Mỹ thuật và Thiết kế
 
 ### Ths Nguyễn Minh Đức
 
-TS. Nguyễn Ngọc LongTrưởng Khoa, Giảng viên Khoa Ngôn ngữPGS. TS. Nguyễn Thị Việt ThanhGiảng viên Khoa Ngôn ngữTS. Hoàng Thị YếnGiảng viên Khoa Ngôn ngữTS. Trình Thị Phương ThảoGiảng viên Khoa Ngôn ngữTS. Hoàng Thị HuếGiảng viên Khoa Ngôn ngữTS. Nguyễn Phương ThúyGiảng viên Khoa Ngôn ngữNCS. ThS. Nguyễn Thị Nguyệt MinhGiảng viên Khoa Ngôn ngữThS. Đoàn Mạnh CườngGiảng viên Khoa Ngôn ngữThS. Trần Minh AnhGiảng viên Khoa Ngôn ngữThS. Lê Thị ThứcGiảng viên Khoa Ngôn ngữThS. Nguyễn Thị AnhGiảng viên Khoa Ngôn ngữThS. Hoàng Hương LiênGiảng viên Khoa Ngôn ngữThS. Bùi Ánh TânGiảng viên Khoa Ngôn ngữThS. Lê Thị Thanh HòaGiảng viên Khoa Ngôn ngữThS. Hoàng Vi HườngGiảng viên Khoa Ngôn ngữThS. Nguyễn Thị ViễnGiảng viên Khoa Ngôn ngữThS Vũ Hoàng HàGiảng viên Khoa Ngôn ngữThS Nguyễn Thị LinhGiảng viên Khoa Ngôn ngữThs Nguyễn Thị Thu AnGiảng viên ngành Ngôn ngữ Trung QuốcThs Nguyễn Thị TiếnGiảng viên chương trình ngôn ngữ Trung Quốc
 
 ### TS. Nguyễn Ngọc Long
 
@@ -370,7 +366,6 @@ Giảng viên ngành Ngôn ngữ Trung Quốc
 
 Giảng viên chương trình ngôn ngữ Trung Quốc
 
-TS. Đặng Minh TuấnTrưởng Khoa, Giảng viên Khoa Vi điện tử và Viễn thôngTS. Ngô Văn HuấnGiảng viên Khoa Vi điện tử và Viễn thôngTS. Nguyễn Thị Thu HằngGiảng viên Khoa Vi điện tử và Viễn thôngTS. Nguyễn Trung ĐôGiảng viên Khoa Vi điện tử và Viễn thôngTS. Lê Hữu TônGiảng viên Khoa Vi điện tử và Viễn thôngThs Lê Xuân ThànhGiảng viên khoa Vi Điện tử và Viễn thông
 
 ### TS. Đặng Minh Tuấn
 
@@ -390,7 +385,6 @@ Giảng viên Khoa Vi điện tử và Viễn thông
 
 Giảng viên khoa Vi Điện tử và Viễn thông
 
-TS. Trần Thúy NgaGiảng viên Ngành Truyền thông đa phương tiệnThS Phan Lê HuyGiảng viên Ngành Truyền thông đa phương tiện
 
 ### TS. Trần Thúy Nga
 
@@ -398,7 +392,6 @@ Giảng viên Ngành Truyền thông đa phương tiện
 
 ### ThS Phan Lê Huy
 
-PGS. TS. Nguyễn Việt DũngTrưởng Khoa, Giảng viên Khoa Đại cươngPGS. TS. Trần Thị Minh ChâuGiảng viên Khoa Đại cươngPGS. TS. Nguyễn Thị Minh TâmGiảng viên Khoa Đại cươngTS. Nguyễn Quang TrưởngGiảng viên Khoa Đại cươngNCS. ThS. Trần Trung ĐứcGiảng viên Khoa Đại cươngNCS. ThS. Nguyễn Thế HoàngGiảng viên Khoa Đại cương
 
 ### PGS. TS. Nguyễn Việt Dũng
 
@@ -416,7 +409,6 @@ Giảng viên Khoa Đại cương
 
 ### NCS. ThS. Nguyễn Thế Hoàng
 
-ThS. Lưu Thị Mai ThanhGiảng viên Chương trình Ngôn ngữ AnhThS. Đinh Hồng Ngọc LinhGiảng viên Chương trình Ngôn ngữ AnhThS. Nguyễn Thị DiệpGiảng viên Chương trình Ngôn ngữ AnhThS. Phạm Ngọc DiệpGiảng viên Chương trình Ngôn ngữ AnhThS. Trần Thị Thu HằngGiảng viên Chương trình Ngôn ngữ AnhThS. Nguyễn Thị Ngọc ThúyGiảng viên Chương trình Ngôn ngữ AnhThS. Trịnh Thu HươngGiảng viên Kỹ năng mềmThS. Nguyễn Kim Hà PhươngGiảng viên Chương trình Ngôn ngữ AnhThS. Đỗ Thị Thảo NguyênGiảng viên Chương trình Ngôn ngữ AnhThs Trần Ngọc ThoaGiảng viên Chương trình Ngôn ngữ Anh
 
 ### ThS. Lưu Thị Mai Thanh
 
@@ -509,38 +501,3 @@ Tiếp nối những thành tích nổi bật trong hoạt động nghiên cứu
 ### Đại học không chỉ là điểm số: Hành trình từ giảng đường đến doanh nghiệp công nghệ của cựu sinh viên Trường Đại học CMC
 
 “Qua học kì thực tập tại doanh nghiệp (học kì On-Job Training), mình có cơ hội tiếp cận doanh nghiệp từ sớm, được trực tiếp tham gia triển khai các dự án thực tế và định hình rõ hơn con đường sự …
-
-- 1
-- 2
-- …
-- 7
-- Admission(1)
-- Chat GPT(6)
-- Đáp án đề thi tốt nghiệp THPT(94)
-- Đời sống sinh viên(162)
-- Gương mặt sinh viên nổi bật(54)
-- Hợp tác đối ngoại(125)
-- Kỳ thi THPT Quốc gia(550)
-- Sự kiện(367)
-- Thông báo(51)
-- Thông báo danh sách(1)
-- Tin tổng hợp(1.385)Humans of CMCU(78)Khoa Công nghệ Thông tin và Truyền thông(121)Khoa Kinh doanh và Quản lý(64)Khoa Mỹ thuật và Thiết kế(24)Khoa Ngôn ngữ và Văn hóa(100)Ngành Ngôn ngữ Hàn Quốc(50)Ngành Ngôn ngữ Nhật(30)Ngành Ngôn ngữ Trung Quốc(21)Khoa Truyền thông đa phương tiện(3)Khoa Vi Điện tử và Viễn Thông(8)
-- Humans of CMCU(78)
-- Khoa Công nghệ Thông tin và Truyền thông(121)
-- Khoa Kinh doanh và Quản lý(64)
-- Khoa Mỹ thuật và Thiết kế(24)
-- Khoa Ngôn ngữ và Văn hóa(100)Ngành Ngôn ngữ Hàn Quốc(50)Ngành Ngôn ngữ Nhật(30)Ngành Ngôn ngữ Trung Quốc(21)
-- Ngành Ngôn ngữ Hàn Quốc(50)
-- Ngành Ngôn ngữ Nhật(30)
-- Ngành Ngôn ngữ Trung Quốc(21)
-- Khoa Truyền thông đa phương tiện(3)
-- Khoa Vi Điện tử và Viễn Thông(8)
-- Tin tức Tập đoàn CMC(106)
-- Tin tuyển dụng(24)Cơ sở Hà Nội(3)Cơ sở TP Hồ Chí Minh(2)Vị trí Chuyên viên(7)Vị trí Giảng viên(11)
-- Cơ sở Hà Nội(3)
-- Cơ sở TP Hồ Chí Minh(2)
-- Vị trí Chuyên viên(7)
-- Vị trí Giảng viên(11)
-- Tin tuyển sinh(335)
-
----

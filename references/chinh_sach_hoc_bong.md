@@ -99,6 +99,4 @@ Trường Đại học CMC hỗ trợ thí sinh hoàn thành thủ tục vay tí
 - Phí giữ học bổng được coi là khoản nộp trước, sẽ được trừ vào khoản học phí phải nộp lần đầu khi thí sinh làm thủ tục nhập học chính thức vào Trường Đại học CMC.
 - Trường hợp thí sinh không nhập học tại Trường Đại học CMC thì khoản phí này không hoàn lại.
 
-## Nộp hồ sơ xét tuyển trực tuyến
-
 ---

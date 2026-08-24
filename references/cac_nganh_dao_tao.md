@@ -18,8 +18,6 @@
 
 ### An ninh mạng
 
-## Nộp hồ sơ xét tuyển trực tuyến
-
 Trong bối cảnh chuyển đổi số và trí tuệ nhân tạo đang diễn ra mạnh mẽ, công nghệ thông tin giữ vai trò then chốt trong mọi lĩnh vực của đời sống xã hội. TạiTrường Đại học CMC,Khoa Công nghệ Thông tin và Truyền thôngđược thành lập với mục tiêu đào tạo nguồn nhân lực chất lượng cao, đáp ứng nhu cầu trong nước và quốc tế, góp phần xây dựng nền kinh tế số dựa trên nền tảng công nghệ thông tin và trí tuệ nhân tạo. Khoa quy tụ đội ngũ giảng viên là các chuyên gia được đào tạo bài bản trong và ngoài nước, giàu kinh nghiệm giảng dạy, nghiên cứu và ứng dụng công nghệ trong thực tiễn doanh nghiệp.
 
 Chương trình đào tạo chú trọng môi trường học tập hiện đại, gắn kết chặt chẽ giữa lý thuyết, thực hành, nghiên cứu và khởi nghiệp. Sinh viên được học tập trong hệ thống phòng lab công nghệ cao, tham gia dự án thực tế và được hướng dẫn trực tiếp bởi các chuyên gia công nghệ của Tập đoàn CMC. Phương pháp giảng dạy ứng dụng AI và mô hình lớp học đảo ngược giúp người học phát triển tư duy tự học, năng lực sáng tạo và kỹ năng nghề nghiệp. Thông qua mạng lưới hợp tác doanh nghiệp và nghiên cứu, sinh viên được trang bị nền tảng vững chắc để thích ứng nhanh, phát triển bền vững và sẵn sàng tham gia thị trường lao động trong kỷ nguyên số.
@@ -324,8 +322,6 @@ Sinh viên có 04 tháng làm việc tại Tập đoàn CMC và các doanh nghi�
 
 Sinh viên được học tập cùng đội ngũ PGS, TS và chuyên gia công nghệ từ doanh nghiệp, được định hướng nghề nghiệp, học gắn với dự án thực tế, cập nhật công nghệ mới nhất
 
-## Nộp hồ sơ xét tuyển trực tuyến
-
 ### Giảng viên tiêu biểu của Khoa
 
 ### PGS. TS. Nguyễn Thanh Tùng
@@ -542,8 +538,6 @@ Dành 04 tháng làm việc toàn thời gian tại Tập đoàn CMC và các đ
 
 Sự kết hợp giữa các Phó giáo sư, Tiến sĩ giàu kinh nghiệm và các chuyên gia công nghệ từ doanh nghiệp. Sinh viên không chỉ học kiến thức nền tảng mà còn được định hướng nghề nghiệp qua các bài toán công nghệ mới nhất
 
-## Nộp hồ sơ xét tuyển trực tuyến
-
 ### Giảng viên tiêu biểu của Khoa
 
 ### PGS. TS. Nguyễn Thanh Tùng
@@ -750,8 +744,6 @@ Dành 04 tháng làm việc toàn thời gian tại Tập đoàn CMC và các đ
 ### Đội ngũ giảng viên "Học thuật kết hợp Thực chiến"
 
 Sự kết hợp giữa các Phó giáo sư, Tiến sĩ giàu kinh nghiệm và các chuyên gia công nghệ từ doanh nghiệp. Sinh viên không chỉ học kiến thức nền tảng mà còn được định hướng nghề nghiệp qua các bài toán công nghệ mới nhất
-
-## Nộp hồ sơ xét tuyển trực tuyến
 
 ## Tổng quan về chương trình đào tạo
 
@@ -1113,8 +1105,6 @@ Dành 04 tháng làm việc toàn thời gian tại Tập đoàn CMC và các đ
 
 Sự kết hợp giữa các Phó giáo sư, Tiến sĩ giàu kinh nghiệm và các chuyên gia công nghệ từ doanh nghiệp. Sinh viên không chỉ học kiến thức nền tảng mà còn được định hướng nghề nghiệp qua các bài toán công nghệ mới nhất
 
-## Nộp hồ sơ xét tuyển trực tuyến
-
 ### Giảng viên tiêu biểu của Khoa
 
 ### PGS. TS. Nguyễn Thanh Tùng
@@ -1392,8 +1382,6 @@ Các học phần tự chọn (Chọn 12 tín chỉ trong các nhóm sau)Định
 - Thiết kế để kiểm thử
 - Công cụ EDA cho thiết kế, kiểm chứng và mô phỏng
 
-## Nộp hồ sơ xét tuyển trực tuyến
-
 ### Giảng viên tiêu biểu của Khoa
 
 ### PGS. TS. Nguyễn Thanh Tùng
@@ -1502,8 +1490,6 @@ Các học phần tự chọn(Chọn 02/06 tín chỉ)
 ### Thương mại điện tử
 
 ### Kinh doanh quốc tế
-
-## Nộp hồ sơ xét tuyển trực tuyến
 
 Khoa Kinh doanh và Quản lý, Trường Đại học CMCđược thành lập với mục tiêu đào tạo nguồn nhân lực chất lượng cao trong lĩnh vực kinh tế và kinh doanh, đáp ứng yêu cầu của nền kinh tế số và hội nhập quốc tế. Với lợi thế là một trường đại học trong lòng doanh nghiệp, Khoa triển khai đào tạo theo định hướng ứng dụng, lấy sinh viên làm trung tâm, kết hợp chặt chẽ giữa lý thuyết và thực hành. Các ngành và chương trình đào tạo được xây dựng theo định hướng đạt chuẩn kiểm định ACBSP, giúp sinh viên phát triển tư duy số, tư duy dữ liệu, năng lực chuyên môn và kỹ năng mềm cần thiết để thích ứng với môi trường kinh doanh hiện đại.
 
@@ -1687,8 +1673,6 @@ Chương trình chú trọng trải nghiệm, giúp sinh viên làm quen với v
 ### Định hướng nghề nghiệp trong lĩnh vực marketing hiện đại
 
 Phù hợp với những sinh viên yêu thích sáng tạo, tư duy dữ liệu và xu hướng truyền thông - kinh doanh mới.
-
-## Nộp hồ sơ xét tuyển trực tuyến
 
 ## Tổng quan về chương trình đào tạo
 
@@ -1963,8 +1947,6 @@ Chương trình chú trọng trải nghiệm thực tế với kỳ thực tập
 ### Tư duy quản trị toàn cầu trong kỷ nguyên số
 
 Phát triển năng lực hoạch định chiến lược, giải quyết vấn đề phức tạp và kỹ năng làm việc chuyên nghiệp trong môi trường kinh doanh quốc tế.
-
-## Nộp hồ sơ xét tuyển trực tuyến
 
 ## Tổng quan về chương trình đào tạo
 
@@ -2258,8 +2240,6 @@ Chương trình giúp sinh viên hiểu và sử dụng các công cụ, giải 
 
 Logistics và chuỗi cung ứng là lĩnh vực thiết yếu, nhiều cơ hội việc làm trong doanh nghiệp sản xuất, thương mại và dịch vụ.
 
-## Nộp hồ sơ xét tuyển trực tuyến
-
 - Pháp luật đại cương
 
 Toán và khoa học cơ bản
@@ -2530,8 +2510,6 @@ Từ marketing, bán hàng, quản lý đơn hàng đến giao nhận và chăm 
 
 Ngành học phù hợp với xu hướng khởi nghiệp, kinh doanh số và làm việc trong nhiều lĩnh vực liên quan đến e-commerce.
 
-## Nộp hồ sơ xét tuyển trực tuyến
-
 ## Tổng quan về chương trình đào tạo
 
 Chương trình Thương mại điện tử (E-commerce) cung cấp cho người học nền tảng kiến thức vững chắc về kinh tế, thương mại, pháp luật, quản trị kinh doanh, marketing, công nghệ thông tin, đồng thời trang bị cho sinh viên những kỹ năng cần thiết, khả năng sử dụng các công cụ số để làm việc và phát triển nghề nghiệp trong lĩnh vực quản trị kinh doanh, marketing, thương mại điện tử. Nội dung chương trình và phương pháp đào tạo được thiết kế trên cơ sở gắn chặt lý thuyết với thực tiễn, giúp sinh viên có khả năng xây dựng, quản lý và phát triển kinh doanh trên nền tảng số, có tư duy đổi mới sáng tạo, làm việc hiệu quả trong môi trường đa văn hóa, thích ứng nhanh với môi trường kinh doanh nhiều biến động, đáp ứng tốt yêu cầu của kinh doanh trong kỷ nguyên số.
@@ -2697,8 +2675,6 @@ Ngành Thương mại điện tử đang trở thành một trong những ngành
 ### Đồ họa Game
 
 ### Thiết kế mỹ thuật số
-
-## Nộp hồ sơ xét tuyển trực tuyến
 
 Trong bối cảnh công nghiệp sáng tạo phát triển mạnh mẽ trên toàn cầu, thiết kế đồ họa và thiết kế game ngày càng giữ vai trò quan trọng trong truyền thông, giải trí và phát triển sản phẩm số. Tại Trường Đại học CMC,Khoa Mỹ thuật và Thiết kếđược thành lập với mục tiêu đào tạo thế hệ nhà thiết kế trẻ có tư duy sáng tạo, nền tảng mỹ thuật vững chắc, khả năng làm chủ công nghệ và thích ứng với những xu hướng mỹ thuật hiện đại của thế giới. Chương trình đào tạo được xây dựng theo chuẩn quốc tế AUN-QA, kết hợp hài hòa giữa mỹ thuật căn bản, phương pháp thiết kế, kỹ thuật ứng dụng và công nghệ số.
 
@@ -2870,8 +2846,6 @@ Chương trình hướng tới hình thành phong cách sáng tạo cá nhân, �
 ### Ứng dụng rộng trong truyền thông, giải trí và sản xuất nội dung số
 
 Sinh viên có thể làm việc trong các lĩnh vực như truyền thông số, giải trí, thiết kế nội dung và các ngành nghề sáng tạo đang phát triển mạnh.
-
-## Nộp hồ sơ xét tuyển trực tuyến
 
 ## Tổng quan về chương trình đào tạo
 
@@ -3185,8 +3159,6 @@ Chương trình học chú trọng khả năng phối hợp giữa các vị tr�
 
 Ngành học mở ra cơ hội làm việc tại các studio game, công ty giải trí số trong nước và quốc tế – một lĩnh vực có tốc độ phát triển nhanh và bền vững.
 
-## Nộp hồ sơ xét tuyển trực tuyến
-
 ## Tổng quan về chương trình đào tạo
 
 Toán và khoa học cơ bản
@@ -3469,8 +3441,6 @@ Chương trình trang bị cho sinh viên kỹ năng xử lý các tình huống
 ### Cơ hội nghề nghiệp linh hoạt trong nhiều lĩnh vực
 
 Sinh viên có thể làm việc tại doanh nghiệp, cơ quan truyền thông, tổ chức xã hội và các đơn vị truyền thông, quảng bá thương hiệu.
-
-## Nộp hồ sơ xét tuyển trực tuyến
 
 ## Tổng quan về chương trình đào tạo
 
@@ -3799,8 +3769,6 @@ Chương trình học chú trọng thực hành, giúp sinh viên làm quen vớ
 
 Ngành học giúp sinh viên sẵn sàng tham gia các vị trí liên quan đến nội dung, truyền thông số và sản xuất đa phương tiện trong doanh nghiệp và tổ chức.
 
-## Nộp hồ sơ xét tuyển trực tuyến
-
 ## Tổng quan về chương trình đào tạo
 
 - Giải tích
@@ -4109,8 +4077,6 @@ Chương trình giúp sinh viên hiểu rõ môi trường thể chế, văn hó
 ### Phát triển năng lực hội nhập trong hệ sinh thái kinh tế Việt - Trung
 
 Ngành học đáp ứng xu thế hợp tác kinh tế khu vực, giúp sinh viên tự tin đảm nhiệm các vị trí trong doanh nghiệp, tổ chức và dự án có sử dụng Tiếng Trung trong nước và quốc tế.
-
-## Nộp hồ sơ xét tuyển trực tuyến
 
 ## Tổng quan về chương trình đào tạo
 

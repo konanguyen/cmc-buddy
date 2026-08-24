@@ -171,8 +171,6 @@ Thí sinh đăng ký trực tiếp tại hệ thống xét tuyển của Trườ
 
 Sinh viên có thể nộp trực tiếp tại Trường Đại học CMC hoặc chuyển khoản vào tài khoản của Trường theo các hướng dẫn sau:
 
-## Nộp hồ sơ xét tuyển trực tuyến
-
 ---
 
 ## Kỳ thi đánh giá năng lực CMC-TEST
@@ -287,7 +285,5 @@ Phí thi tuyển kỳ thi CMC-TEST: miễn phí.
 Thí sinh đăng ký hồ sơ thi tuyển của Trường Đại học CMC có thời gian dự kiến như sau:
 
 Kỳ thi CMC-TEST không chỉ là cơ hội để các thí sinh phát huy tối đa năng lực tư duy và vận dụng kiến thức, mà còn là bước đệm vững chắc để trúng tuyển vào Trường Đại học CMC. Để nhận được quyền lợi quà tặng hấp dẫn khi nhập học và cơ hội xét tuyển vào các ngành/CTĐT của Trường Đại học CMC, thí sinh đăng ký tham gia kỳ thi tại trang:thituyen.cmcu.edu.vn.
-
-## Nộp hồ sơ xét tuyển trực tuyến
 
 ---
