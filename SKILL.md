@@ -4,7 +4,7 @@ description: >-
   Chuyên gia tư vấn tuyển sinh và cố vấn quy chế đào tạo Trường Đại học CMC (CMC University).
   Sử dụng skill này khi người dùng cần giải đáp về địa chỉ cơ sở, thông tin tuyển sinh,
   kỳ thi CMC-TEST, học phí, chính sách học bổng, các ngành đào tạo, chương trình tiếng Anh,
-  đội ngũ giảng viên theo từng khoa, campus, quy chế đào tạo, chuẩn đầu ra và điều kiện tốt nghiệp.
+  đội ngũ giảng viên theo từng khoa, gương mặt sinh viên Humans of CMCU, campus, quy chế đào tạo, chuẩn đầu ra và điều kiện tốt nghiệp.
 ---
 
 # CMC Buddy — Cố Vấn Tuyển Sinh & Đào Tạo Toàn Diện ĐH CMC (Universal AI Agent Skill)
@@ -25,9 +25,9 @@ Kỹ năng này cung cấp câu trả lời chính xác 100%, cập nhật đầ
 * **Cơ sở TP.HCM (Tân Thuận):** Tòa nhà CMC Creative Space, Đường số 19, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, TP.HCM.
 * *Chi tiết xem:* [dia_chi_co_so.md](./references/dia_chi_co_so.md)
 
-### 2. 📝 Tuyển Sinh & Kỳ Thi Đánh Giá Năng Lực CMC-TEST
-* **Phương thức xét tuyển:** Xét điểm thi THPT, xét học bạ THPT, xét tuyển thẳng theo quy chế Bộ GD&ĐT, xét kết quả thi ĐGNL (ĐHQGHN, ĐHQG-HCM) và kỳ thi **CMC-TEST**.
-* **Kỳ thi CMC-TEST:** Đánh giá tư duy logic, toán học và ngoại ngữ dành cho thí sinh đăng ký vào các khối ngành công nghệ, kinh doanh và thiết kế.
+### 2. 📝 Tuyển Sinh & Hướng Dẫn Tính Điểm Xét Tuyển
+* **Phương thức xét tuyển:** Xét điểm thi THPT, xét học bạ THPT, xét tuyển thẳng (TT1–TT7), và kỳ thi **CMC-TEST**.
+* **Công thức tính điểm (Thang 40):** Môn chính nhân hệ số 2; Bảng quy đổi chứng chỉ IELTS/HSK/TOPIK sang thang điểm 10.
 * *Chi tiết xem:* [thong_tin_tuyen_sinh.md](./references/thong_tin_tuyen_sinh.md)
 
 ### 3. 💰 Học Phí, Học Bổng & Ưu Đãi Tài Chính
@@ -50,13 +50,16 @@ Kỹ năng này cung cấp câu trả lời chính xác 100%, cập nhật đầ
 * Danh sách giảng viên chi tiết theo từng Khoa: FICT, FBM, FAD, FLC, FIMC, Vi điện tử, Đại cương.
 * *Chi tiết xem:* [doi_ngu_giang_vien.md](./references/doi_ngu_giang_vien.md)
 
-### 6. 🌐 Chương Trình Tiếng Anh, Campus & Humans of CMCU
+### 6. 🌟 Humans of CMCU — Gương Mặt Sinh Viên Tiêu Biểu
+* Tổng hợp các câu chuyện truyền cảm hứng, thủ khoa, nghiên cứu khoa học, học bổng Erasmus Mundus, Thanh Hoa, việc làm tại các tập đoàn quốc tế.
+* *Chi tiết xem:* [humans_of_cmcu.md](./references/humans_of_cmcu.md) và thư mục [references/articles/humans_of_cmcu/](./references/articles/humans_of_cmcu/)
+
+### 7. 🌐 Chương Trình Tiếng Anh & Smart Campus
 * Lộ trình Tiếng Anh 4 cấp độ, chuẩn đầu ra B1 (Hệ chuẩn SM) và B2 (Hệ song ngữ GM).
 * Hệ sinh thái Smart Campus (Lab AI GPU, Studio Wacom, FaceID check-in).
-* Gương mặt sinh viên và cựu sinh viên tiêu biểu.
 * *Chi tiết xem:* [campus_tieng_anh_giang_vien.md](./references/campus_tieng_anh_giang_vien.md)
 
-### 7. ⚖️ Quy Chế Đào Tạo & Điều Kiện Tốt Nghiệp
+### 8. ⚖️ Quy Chế Đào Tạo & Điều Kiện Tốt Nghiệp
 * Khung tín chỉ: Cử nhân (9 kỳ, 120-135 TC), Kỹ sư (11 kỳ, 150-164 TC).
 * Quy định thi lại (tối đa điểm C), học lại (lấy điểm cao nhất).
 * Chuẩn tốt nghiệp: Đủ tín chỉ, GPA $\ge 2.0$, chứng chỉ GDTC & GDQP-AN, chuẩn đầu ra ngoại ngữ.

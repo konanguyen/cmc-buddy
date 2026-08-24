@@ -16,9 +16,11 @@ Skill được xây dựng theo kiến trúc **RAG (Retrieval-Augmented Generati
 ### 1. 🏛️ Tra cứu Cơ sở & Địa chỉ đào tạo
 * Cung cấp địa chỉ chính xác của tất cả các cơ sở tại **Hà Nội** (Trụ sở Duy Tân Cầu Giấy, Cơ sở 1 & 2 Hà Đông, Cơ sở 3 Tây Mỗ) và **TP. Hồ Chí Minh** (Cơ sở Tân Thuận - CMC Creative Space Q7).
 
-### 2. 📝 Tư vấn Tuyển sinh & Kỳ thi CMC-TEST
-* Hướng dẫn chi tiết các phương thức xét tuyển: Điểm thi tốt nghiệp THPT, Học bạ THPT, Tuyển thẳng, Điểm thi ĐGNL (ĐHQGHN, ĐHQG-HCM) và kỳ thi đánh giá năng lực **CMC-TEST**.
-* Điểm chuẩn trúng tuyển các ngành qua các năm.
+### 2. 📝 Hướng dẫn Tính Điểm Tuyển sinh & Kỳ thi CMC-TEST
+* Công thức tính điểm xét tuyển theo thang 40 (môn chính nhân đôi) cho cả 2 phương thức: Điểm thi THPT và Học bạ THPT.
+* Bảng quy đổi chứng chỉ ngoại ngữ quốc tế (IELTS, HSK, TOPIK) sang thang điểm 10 môn Ngoại ngữ.
+* Cấu trúc đề thi và cách thức xét tuyển kỳ thi đánh giá năng lực **CMC-TEST**.
+* 7 diện xét tuyển thẳng (TT1 – TT7).
 
 ### 3. 💰 Chính sách Học phí & Quỹ Học bổng
 * Biểu phí chi tiết theo từng kỳ và từng năm học.
@@ -37,24 +39,15 @@ Skill được xây dựng theo kiến trúc **RAG (Retrieval-Augmented Generati
   - **Khoa Vi điện tử & Viễn thông:** KT Điện tử - Viễn thông (Bán dẫn), Robot thông minh & AI.
 
 ### 5. 👨‍🏫 Đội ngũ Giảng viên phân loại theo từng Khoa
-* Danh sách giảng viên được phân nhóm minh bạch theo từng Khoa, giúp người dùng tra cứu chính xác giảng viên phụ trách bộ môn nào.
+* Danh sách giảng viên được phân nhóm minh bạch theo từng Khoa (FICT, FBM, FAD, FLC, FIMC, Vi điện tử, Đại cương).
 
-### 6. ⚖️ Quy chế Học vụ & Điều kiện Tốt nghiệp
+### 6. 🌟 Humans of CMCU — Gương Mặt Sinh Viên Tiêu Biểu
+* Toàn bộ 73 bài viết và tổng hợp các câu chuyện truyền cảm hứng, thủ khoa, nghiên cứu khoa học, học bổng Erasmus Mundus Châu Âu, học bổng ĐH Thanh Hoa, cơ hội việc làm quốc tế.
+
+### 7. ⚖️ Quy chế Học vụ & Điều kiện Tốt nghiệp
 * Thời gian đào tạo & Khung tín chỉ: **Cử nhân** (9 học kỳ, 120-135 TC) vs **Kỹ sư** (11 học kỳ, 150-164 TC).
 * Chuẩn đầu ra Ngoại ngữ: **Hệ Chuẩn (SM)** đạt Bậc 3/6 (B1 CEFR), **Hệ Song ngữ (GM)** đạt Bậc 4/6 (B2 CEFR).
 * Quy định thi lại (điểm tối đa mức C), học lại (lấy điểm cao nhất), cảnh báo học tập và xét điều kiện tốt nghiệp.
-
-### 7. 📰 Kho dữ liệu hơn 1.100 bài viết chính thức
-* Tích hợp hơn 1.100 bài viết tin tức, hướng nghiệp, đời sống sinh viên, gương mặt thủ khoa, sự kiện hợp tác quốc tế (Tsinghua SIGS, Steinbeis Đức, Woori Bank...) kèm file chỉ mục `articles_index.json`.
-
----
-
-## 📖 Nguồn Dữ Liệu (Data Sources)
-
-Dữ liệu trong bộ Skill được thu thập và thẩm định từ các nguồn chính thống:
-1. **Văn bản pháp lý nội bộ:** Quyết định số `22/2023/QĐ-ĐHCMC-HĐT` ngày 01/12/2023 của Chủ tịch Hội đồng Trường Đại học CMC về việc ban hành *Quy chế đào tạo trình độ đại học*.
-2. **Cổng thông tin điện tử chính thức:** [https://cmcu.edu.vn/](https://cmcu.edu.vn/)
-3. **Cổng tuyển sinh Đại học CMC:** [https://xettuyen.cmcu.edu.vn/](https://xettuyen.cmcu.edu.vn/)
 
 ---
 
@@ -67,14 +60,16 @@ Dữ liệu trong bộ Skill được thu thập và thẩm định từ các ng
 └── references/                        # Kho tri thức tham chiếu RAG (đã lọc sạch tạp âm)
     ├── quy_che_dao_tao.md             # Toàn văn 27 Điều Quy chế đào tạo đại học ĐH CMC
     ├── dia_chi_co_so.md               # Địa chỉ trụ sở & các cơ sở đào tạo HN & TP.HCM
-    ├── thong_tin_tuyen_sinh.md        # Đề án tuyển sinh, điểm chuẩn, kỳ thi CMC-TEST
+    ├── thong_tin_tuyen_sinh.md        # Công thức tính điểm xét tuyển (Thang 40), CMC-TEST
     ├── chinh_sach_hoc_bong.md         # Quy định học phí, học bổng tuyển sinh & KKHT
     ├── cac_nganh_dao_tao.md           # Tóm tắt súc tích, cấu trúc rõ ràng 6 Khoa & 15+ ngành
     ├── doi_ngu_giang_vien.md          # Danh sách giảng viên phân chia rõ ràng theo từng Khoa
-    ├── campus_tieng_anh_giang_vien.md # Lộ trình tiếng Anh, Smart Campus, Humans of CMCU
-    └── articles/                      # Hơn 1.100 bài viết phân loại theo danh mục
-        ├── articles_index.json        # Chỉ mục tìm kiếm nhanh (Title, Date, Category, Excerpt)
-        ├── tuyen_sinh/                # Bài viết chuyên đề tuyển sinh & nhập học
+    ├── humans_of_cmcu.md              # Tổng hợp gương mặt sinh viên & cựu sinh viên tiêu biểu
+    ├── campus_tieng_anh_giang_vien.md # Lộ trình tiếng Anh, Smart Campus
+    └── articles/                      # Kho bài viết phân loại theo danh mục
+        ├── articles_index.json        # Chỉ mục tìm kiếm nhanh hơn 1.000 bài viết
+        ├── humans_of_cmcu/            # 73 bài viết câu chuyện sinh viên Humans of CMCU
+        ├── tuyen_sinh/                # Bài viết chuyên đề tuyển sinh & nhập học ĐH CMC
         ├── hoc_bong/                  # Bài viết học bổng & gương mặt sinh viên xuất sắc
         ├── nganh_hoc_nghe_nghiep/     # Bài viết phân tích ngành nghề & thị trường việc làm
         ├── su_kien_hop_tac/           # Bài viết sự kiện, hợp tác quốc tế & doanh nghiệp
