@@ -1,0 +1,35 @@
+# Trường Đại học CMC tổ chức họp Hội đồng thẩm định Đề án mở ngành chương trình đào tạo Công nghệ kỹ thuật Điện tử – Viễn thông trình độ đại học
+
+* **Nguồn:** [https://cmcu.edu.vn/truong-dai-hoc-cmc-to-chuc-hop-hoi-dong-tham-dinh-de-an-mo-nganh-chuong-trinh-dao-tao-cong-nghe-ky-thuat-dien-tu-vien-thong-trinh-do-dai-hoc/](https://cmcu.edu.vn/truong-dai-hoc-cmc-to-chuc-hop-hoi-dong-tham-dinh-de-an-mo-nganh-chuong-trinh-dao-tao-cong-nghe-ky-thuat-dien-tu-vien-thong-trinh-do-dai-hoc/)
+* **Ngày đăng:** 2024-01-18T08:16:03+00:00
+* **Danh mục:** nganh_hoc_nghe_nghiep
+
+---
+
+## Trường Đại học CMC tổ chức họp Hội đồng thẩm định Đề án mở ngành chương trình đào tạo Công nghệ kỹ thuật Điện tử – Viễn thông trình độ đại học
+
+Chiều ngày 18/1/2024, Trường Đại học CMC đã tổ chức họp Hội đồng thẩm định Đề án mở ngành chương trình đào tạo Công nghệ kỹ thuật Điện tử – Viễn thông trình độ đại học.
+
+Tham dự buổi họp, về phía Hội đồng thẩm định có GS. TS. Trần Xuân Tú – Viện Công nghệ thông tin, Đại học Quốc gia Hà Nội – Chủ tịch Hội đồng; GS. TS. Trần Đức Tân – Trường Đại học Phenikaa – Phản biện; PGS. TS. Nguyễn Tiến Hòa – Đại học Bách khoa Hà Nội – Phản biện; TS. Đặng Minh Tuấn – Viện trưởng Viện Nghiên cứu ứng dụng Công Nghệ CMC – Ủy viên; TS. Đào Nguyệt Sương Huyền – Chuyên gia Đảm bảo chất lượng, Trường Đại học Dược Hà Nội – Ủy viên cùng các thành viên trong Hội đồng thẩm định. Về phía Trường Đại học CMC có sự tham dự của PGS. TS. Nguyễn Ngọc Bình – Hiệu trưởng; PGS. TS. Nguyễn Thanh Tùng – Phó Hiệu trưởng; PGS. TS. Vũ Việt Vũ – Trưởng Khoa Công nghệ Thông tin & Truyền thông.
+
+Theo đó, Hội đồng thẩm định Đề án mở ngành chương trình đào tạo Công nghệ kỹ thuật Điện tử – Viễn thông trình độ đại học có trách nhiệm thẩm định khối lượng, mục tiêu, chuẩn đầu ra, nội dung chương trình đào tạo của ngành theo các quy định của Bộ GD&ĐT.
+
+Phát biểu khai mạc cuộc họp, PGS. TS. Nguyễn Ngọc Bình – Hiệu trưởng Trường Đại học CMC cho biết: “Trường Đại học CMC đã có kế hoạch xây dựng chương trình đào tạo ngành Công nghệ kỹ thuật Điện tử – Viễn thông trình độ đại học từ lâu. Dựa trên nền tảng thế mạnh về nghiên cứu và ứng dụng thiết bị vi mạch điện tử của Tập đoàn Công nghệ CMC, đặc biệt là Viện Nghiên cứu ứng dụng Công Nghệ CMC, Trường Đại học CMC quyết tâm xây dựng, hoàn thiện chương trình đào tạo hiện đại và tiên tiến, đáp ứng nhu cầu cấp thiết của xã hội, sẵn sàng đầu ra cho sinh viên và có tính ứng dụng cao. Bên cạnh đó, với sự bảo trợ của Tập đoàn Công nghệ CMC, Trường Đại học CMC sẵn sàng đầu tư các trang thiết bị, cơ sở vật chất tối đa để đáp ứng yêu cầu của đề án, đảm bảo chất lượng đào tạo.”
+
+Hiệu trưởng Trường Đại học CMC cho biết, hiện nay, Trường đã hoàn tất xây dựng phòng Thực hành Thiết kế vi mạch (IC Design Lab) được trang bị công cụ thiết kế điện tử (EDA tools) của các hãng công nghệ lớn như Synopsys, Cadence,… Phòng Thực hành Thiết kế vi mạch cũng là nơi thực tập chuyên môn cao cho sinh viên về thiết kế vi mạch từ năm học 2023 – 2024. Cùng với đó, Trường Đại học CMC đã và đang quy tụ đội ngũ giảng viên giỏi, được đào tạo bài bản tại nước ngoài để tham gia giảng dạy ngành đào tạo này.
+
+Tại cuộc họp, PGS. TS. Vũ Việt Vũ đã trình bày về tính cấp thiết trong việc mở ngành đào tạo Công nghệ kỹ thuật Điện tử – Viễn thông, đồng thời giới thiệu chi tiết nội dung chương trình đào tạo của ngành. Dựa trên các cơ sở căn cứ pháp lý, sự phù hợp với chiến lược, sứ mệnh của Trường Đại học CMC cũng như nhu cầu phát triển nguồn nhân lực hiện nay, PGS. TS. Vũ Việt Vũ cho biết, ngành Công nghệ kỹ thuật Điện tử – Viễn thông được Trường Đại học CMC xác định là một trong những ngành đào tạo lõi của Nhà trường. Vừa qua, Trường Đại học CMC đã hoàn tất công tác rà soát và thẩm định chuẩn đầu ra của chương trình đào tạo đối với ngành Công nghệ thông tin, Khoa học máy tính đáp ứng tiêu chuẩn của ABET. Đây là tiền đề giúp Nhà trường đẩy nhanh một số công đoạn trong quá trình hoàn thiện chương trình đào tạo ngành Công nghệ kỹ thuật Điện tử – Viễn thông.
+
+Tại cuộc họp, các thành viên Hội đồng thẩm định đã phát biểu nhận xét, đánh giá đối với nội dung chương trình đào tạo ngành Công nghệ kỹ thuật Điện tử – Viễn thông trình độ đại học của Trường Đại học CMC.
+
+GS. TS. Trần Đức Tân đánh giá: “Chương trình đào tạo được xây dựng có đầy đủ các căn cứ về cơ sở pháp lý và thực tiễn. Nhà trường đã có định hướng đào tạo ngành học này, có sự chuẩn bị sẵn sàng về cơ sở vật chất, trang thiết bị hiện đại, có đội ngũ giảng viên đáp ứng năng lực chuyên môn, có sự phân tích về nhu cầu nguồn nhân lực của xã hội đối với lĩnh vực Công nghệ kỹ thuật Điện tử – Viễn thông. Về tổng quan, Trường Đại học CMC đáp ứng đầy đủ các yêu cầu để mở ngành đào tạo này.”
+
+GS. TS. Nguyễn Tiến Hoàng nhận xét: “Mục tiêu của chương trình đào tạo ngành Công nghệ kỹ thuật Điện tử – Viễn thông phù hợp với yêu cầu trình độ đào tạo cử nhân, đáp ứng nhu cầu của xã hội và ngành công nghiệp. Ngành học gắn liền với mục tiêu tuyển dụng của xã hội, chương trình đào tạo có sự linh hoạt trong việc lựa chọn các học phần, định hướng ngành học có tính thực tiễn cao”. Dựa trên chuẩn đầu ra của ngành, GS. TS. Nguyễn Tiến Hoàng đánh giá cao tính khả thi của nội dung chương trình đào tạo, có tính liên kết chặt chẽ giữa cơ sở khối ngành và cơ sở ngành, cung cấp cho sinh viên những kiến thức cơ bản, chuyên sâu, có sự kết hợp giữa lý thuyết và thực hành.
+
+Cũng tại buổi họp, các thành viên trong Hội đồng đã đưa ra những góp ý sơ bộ nhằm bổ sung, chỉnh sửa, hoàn thiện chương trình đào tạo của ngành.
+
+Sau thời gian làm việc nghiêm túc, GS. TS. Trần Xuân Tú – đại diện Hội đồng thẩm định, đưa ra kết luận đánh giá về chương trình đào tạo ngành Công nghệ kỹ thuật điện tử – Viễn thông được xây dựng công phu, bài bản, hiện đại, linh hoạt và bám sát thực tiễn nghề nghiệp. Trong phần góp ý chỉnh sửa, Chủ tịch Hội đồng thẩm định yêu cầu rà soát ma trận chuẩn đầu ra, rà soát nội dung các môn học và điều chỉnh các đề cương chi tiết tương ứng theo các góp ý mà Hội đồng đã nêu, rà soát về phân bổ thời lượng học tập theo thông tư 17-2021 của Bộ GD&ĐT. Kết thúc buổi họp, GS. TS. Trần Xuân Tú gửi lời chúc mừng tổ công tác đã hoàn thành nhiệm vụ quan trọng, chúc mừng Trường Đại học CMC sắp có thêm ngành đào tạo mới.
+
+Đại diện Trường Đại học CMC, PGS. TS. Nguyễn Thanh Tùng phát biểu: “Thay mặt BGH Nhà trường, xin cảm ơn các thầy cô trong Hội đồng thẩm định đã tham gia góp ý, đưa ra những nhận xét nhằm xây dựng chương trình đào tạo ngành Công nghệ kỹ thuật điện tử – Viễn thông. Dựa trên những ý kiến đóng góp của Hội đồng, Trường Đại học CMC sẽ chỉnh sửa và sớm hoàn thiện nội dung chương trình đào tạo, chuẩn bị cho những giai đoạn tiếp theo để tiến hành mở ngành theo đúng quy định của Bộ GD&ĐT.”
+
+Trong thời gian tới, Trường Đại học CMC sẽ tổ chức cuộc họp riêng với Hội đồng các chuyên gia công nghệ là các lãnh đạo doanh nghiệp. Đây là bước đi rất khác biệt, thể hiện mục tiêu xây dựng chương trình đào tạo chú trọng tính thực tiễn, đáp ứng nhu cầu doanh nghiệp của Trường Đại học CMC. Dự kiến trong năm 2024, Trường Đại học CMC sẽ chính thức tuyển sinh ngành Công nghệ Kỹ thuật Điện tử – Viễn thông trình độ đại học.

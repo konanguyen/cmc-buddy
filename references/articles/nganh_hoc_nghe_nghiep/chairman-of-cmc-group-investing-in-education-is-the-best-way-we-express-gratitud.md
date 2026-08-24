@@ -1,0 +1,69 @@
+# Chairman of CMC Group: Investing in education is the best way we express gratitude to our country.
+
+* **Nguồn:** [https://cmcu.edu.vn/en/chairman-of-cmc-group-investing-in-education-is-the-best-way-we-express-gratitude-to-our-country/](https://cmcu.edu.vn/en/chairman-of-cmc-group-investing-in-education-is-the-best-way-we-express-gratitude-to-our-country/)
+* **Ngày đăng:** 2022-03-08T00:22:06+00:00
+* **Danh mục:** nganh_hoc_nghe_nghiep
+
+---
+
+## Chairman of CMC Group: Investing in education is the best way we express gratitude to our country.
+
+Following this decision is a long-term vision and profound educational philosophy of Mr. Nguyen Trung Chinh – Chairman of the Board, CEO of CMC Technology Group.
+
+– Happy New Year, Chairman! But let’s start with the old story, with the ambition to make CMC a global digital company, a reliable digital transformation partner for businesses at home and abroad. Up to this point, what achievements have you and your colleagues achieved compared to expectations? –
+
+Exactly! CMC’s strategy for the next 5 years is to become a leading digital transformation group providing services to businesses both domestically and internationally, with a particular focus on the region, while also aiming to be a global conglomerate. However, no matter how well the strategic forecasts are, life still holds many surprises! 2021 was the first year in that 5-year journey, and we had to face numerous challenges due to the pandemic. But this was also an opportunity to showcase resilience and adaptability. We developed two scenarios: cautious and growth, also known as “baseline” and “big move.” Without hiding anything, in 2021 alone, CMC achieved 100% of its set goals, even surpassing expectations.
+
+– Indeed, an impressive achievement in the year of Covid! But instead of focusing on strengthening existing areas, why did you decide to invest in higher education on the journey to achieve the $1 billion revenue, particularly during such a challenging time?
+
+CMC is a business, and I am an entrepreneur, so the first part of the story revolves around economics and the organization’s vision. To become a global enterprise with billions of dollars in revenue by 2025, the group’s workforce needs to reach 10,000-15,000 people. Currently, we only have 4,200 colleagues, so CMC needs to triple its workforce in the next 5 years. To attract high-quality talent, it is essential to build a strategic human resource development plan. This is the first reason why we decided to invest in the field of education, to meet our own growing needs and attract top-notch professionals.
+
+And more importantly, after nearly 30 years of building and developing, CMC wants to contribute more to society, to “give back” for what the country has helped us achieve today. I believe that with the current development reality and needs of Vietnam, education is the best place for CMC to realize its ideals.
+
+– Let me interrupt the Chairman, expressing gratitude to society as a business probably just requires engaging in charitable activities to be recognized, don’t you think so?
+
+Doing charity is like giving someone a fish rather than teaching them how to fish. I believe that the most useful thing for the country is to invest in education, to create long-term products for society – individuals with the capability and qualities needed to collectively realize Vietnam’s powerful dream in the vision of 2045, marking 100 years of the country’s establishment, as set by the leaders. CMC aims to join other ICT companies in making Vietnam a global digital service provider, becoming a digital hub in the region. At the very least, alongside technology and business, we can contribute in terms of human resources.
+
+– Education and training are indeed crucial, as you mentioned, but it’s also a field that has caused quite a bit of disappointment. How does your perception of repaying the country and society through education and training originate, and what role do you see this sector playing in your view?
+
+As you know, I used to work as a state research officer before starting my own business. I have always been aware that for a country to develop and for businesses to achieve sustainable growth, there is a need for good individuals, fresh minds, and education and training are crucial in shaping such individuals. To be more specific, from a demand perspective, emphasizing qualities and ethics defines a good individual, while a fresh mind refers to someone with knowledge and skills in line with the progress of the times. Therefore, no matter where or when, it is universally emphasized that education and training are a nation’s foundation, not just in Vietnam. You can observe that countries that have reached a similar level of development as Vietnam today have subsequently made rapid breakthroughs to become fully industrialized and developed nations, with a priority placed on the development of education and human resources.
+
+– Education is very difficult, so what is the connection between education and a corporation with rich experience in technology and services? – There are quite a few people wondering if the “Fourth Industrial Revolution” or “digital transformation” is just a slogan in Vietnam?
+
+For me personally, digital transformation will save the national budget, individuals’ pockets, businesses, and contribute significantly to the economy. However, digital transformation is accompanied by challenges that both the government and society must address, such as developing infrastructure, ensuring information security, and especially meeting the workforce demands. To have a competent and fresh workforce, as I mentioned earlier, the role of businesses is indispensable. Businesses act as both customers using the products of education and as targets and guides for education. They are also companions in educational activities, helping learners master and understand the knowledge and skills more thoroughly. This is the synergy between education and technology businesses that CMC has been pursuing for many years.
+
+– Speaking in this way means that the business wants to be involved from the beginning to have a high-quality workforce. So why did CMC choose to invest in CMC University instead of primary or secondary schools, or an educational system from elementary to university?
+
+Investing in higher education is just the first step. CMC has decided to invest in the field of education as a whole, encompassing all levels and disciplines, from preschool to university and postgraduate studies. I believe that when venturing into the education sector, it is advisable to engage in all areas, not just focusing on higher education. However, CMC has chosen higher education as a starting point because this segment has the most immediate and essential demand, especially for the corporation’s activities in the coming years.
+
+– Pouring such a massive amount of capital, what do you expect from CMC University, and what goals have you set?
+
+Firstly, the training philosophy of CMC University is based on the global definition of education, particularly that of UNESCO: learning to know, learning to do, learning to live together and learning to be. Additionally, we aspire to contribute to “a prosperous Vietnam,” echoing the philosophy of Vietnam’s first Minister of Education and Training, Mr. Vu Dinh Hoe: “Education for human development” – education for the very development of individuals. Regarding our mission, the corporation aims to train high-quality human resources in science and technology to innovate and create for the country, providing a lifelong learning space for everyone. This is also a goal that CMC is building within its working environment. We value creativity and advocate for lifelong learning for all employees. In terms of vision, we hope that by 2033 (the 40th anniversary of CMC), CMC University will be among the Top 100 universities in Asia, and by 2043 (50 years of CMC), it will be among the Top 200 universities globally.
+
+– Numerous private higher education projects, despite having noble intentions from the start and being initiated by highly reputable founders, have faced failure. Venturing into this field, what is the biggest challenge for you?
+
+That is the human factor and the educational mindset. My colleagues and I understand very well that building a good university is no easy task. Educational endeavors require substantial, serious investment, and most importantly, the right people. In the short and long term, those involved in education at CMC must consistently innovate their thinking, possess creative abilities, have an open-minded educational spirit, and critical thinking skills. We will prioritize a fundamental shift from traditional teaching and learning methods to new approaches that align with the conditions of a rapidly developing society – a digital society, a society in the era of Industry 4.0
+
+-What factors contribute to your confidence that the CMC University project will succeed and become the dream school for many future generations of students?
+
+The first factor is the experience and societal recognition. Before venturing into the education sector, CMC was a provider of educational technology solutions such as smart university management (IU), electronic libraries, etc. We were also a pioneering entity in constructing and advising clients on digital transformation, building digital organizations.
+
+Furthermore, we place a strong emphasis on research, considering it a crucial function and an identifying factor for a university! In 2014, we established the CMC Technology Application Research Institute – CIST, focusing on researching and training in the application of new technologies, which has brought initial success by providing core technology solutions and developing high-tech products. This serves as a foundation for CMC in building a strategy to develop CMC University into an intelligent university, a digital university – the first of its kind in Vietnam. Thanks to this, we are confident that we can meet the learning needs of students with the latest and most relevant perspectives in today’s societal context.
+
+Finally, there is the issue of ensuring successful outcomes. CMC commits that after graduation, students will have numerous job opportunities with leading companies within the corporation, as well as top companies in Vietnam and around the world. All three elements of a modern university are already in place, not just initiated when the investment in CMC University was announced. So, why wouldn’t CMC be confident?
+
+– Continuing to challenge yourself with a new and difficult project, we now understand why, despite nearly 30 years of CMC’s development, you still shared with the press that “our journey has just begun.” What motivation has helped you maintain your fire and enthusiasm for so many decades?
+
+This is something I constantly remind myself and my colleagues of. Life is always in motion, changing rapidly, and uncertainly. If we don’t want to be left behind or laid off, we need to adapt faster than the pace of life’s changes. No matter how large an organization or business is, without adapting, moving, or maintaining the rhythm of growth, it’s easy to be left behind, or even wiped out, as seen with Nokia or Compaq. This is also the driving force, philosophy, and goal of ours, expressed in the core values of CMC – speed. In CMC, there’s a term called “C-speed,” representing both the speed of light and the speed of CMC individuals. We have to achieve the fastest speed, approaching the speed of light, to solve and overcome challenges every day and develop. That’s the fire, the passion. You have to think that you always need to change and renew yourself. It is the most important motivation to keep the enthusiasm for development alive.
+
+– The President’s response has piqued our curiosity in 2022. What is the most crucial strategy that he and CMC are focusing on to continuously change and adapt?
+
+In 2022, it’s the pivotal moment for the successful implementation of the 20 ‘big moves’ outlined in the 5-year strategy to become a global conglomerate in terms of scale, capability, and services. Simply put, for a company to transition from good to great, the growth rate must be twice as fast as the market’s average growth rate. Currently, the most crucial aspect is still building digital capabilities and undergoing digital transformation. CMC’s entry into a new sector such as education and training is also the focal point of our 2022 plan, where we strive for success. Every individual and department within the conglomerate set new, challenging goals, surpassing those of yesterday for our collective development. At CMC, we use OKR/KPI (Objectives and Key Results/Key Performance Indicators) on all activities and constantly measure to evaluate where we are improving today compared to yesterday. The group’s slogan is Future Now – ‘If you want to aim for the future, you must start now.’
+
+– As the Chairman of the conglomerate, you’ve probably been asked many times what message you’d like to convey to the younger generation. However, to conclude this conversation, we’d like to know, at the inauguration of the first academic year of CMC University, what would you say to the incoming students and potentially the future workforce of CMC?
+
+The future depends on you, on me, and on us. Where is the future? The future is right now – Future Now. Never be late and miss any opportunity, no matter how small. It is through this way that we achieve success. This is the determination of each ‘CMC person,’ and it is also the message I want to convey to everyone.
+
+According to Trí Thức Trẻ (Youth Intellectuals)
+
+See more: Revealing the luxurious facilities of CMC University at two campuses that captivate Gen Z.

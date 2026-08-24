@@ -1,0 +1,43 @@
+# Trường Đại học CMC ký kết Biên bản ghi nhớ hợp tác với Công ty Cổ phần RikkeiSoft: Tăng tốc hành trình hội nhập quốc tế ‘go global’ cho sinh viên
+
+* **Nguồn:** [https://cmcu.edu.vn/truong-dai-hoc-cmc-ky-ket-bien-ban-ghi-nho-hop-tac-voi-cong-ty-co-phan-rikkeisoft-tang-toc-hanh-trinh-hoi-nhap-quoc-te-go-global-cho-sinh-vien/](https://cmcu.edu.vn/truong-dai-hoc-cmc-ky-ket-bien-ban-ghi-nho-hop-tac-voi-cong-ty-co-phan-rikkeisoft-tang-toc-hanh-trinh-hoi-nhap-quoc-te-go-global-cho-sinh-vien/)
+* **Ngày đăng:** 2025-08-12T07:04:19+00:00
+* **Danh mục:** nganh_hoc_nghe_nghiep
+
+---
+
+## Trường Đại học CMC ký kết Biên bản ghi nhớ hợp tác với Công ty Cổ phần RikkeiSoft: Tăng tốc hành trình hội nhập quốc tế ‘go global’ cho sinh viên
+
+Trong khuôn khổ chiến lược tăng cường hợp tác với doanh nghiệp, ngày 11/08/2025 vừa qua, Trường Đại học CMC đã chính thức ký kết Biên bản ghi nhớ hợp tác (MOU) với Công ty Cổ phần RikkeiSoft. Buổi lễ không chỉ đặt nền móng cho chiến lược hợp tác sâu rộng giữa Nhà trường và doanh nghiệp, mà còn là minh chứng rõ nét cho cam kết đồng hành cùng sinh viên trên hành trình học tập – thực hành – phát triển sự nghiệp ngay từ khi còn trên ghế giảng đường.
+
+Tham dự buổi lễ, về phía Công ty Cổ phần RikkeiSoft có ông Phan Thế Dũng – Phó Chủ tịch RikkeiSoft; ông Đặng Thái Hòa – Tổng Giám đốc RikkeiSoft; ông Nguyễn Viết Lâm – Phó Tổng Giám đốc RikkeiSoft, Giám đốc Rikkei Education; ông Hoàng Minh Báu – Giám đốc sản xuất; bà Lê Thị Quỳnh Trang – Phó Giám đốc Việc làm, Trưởng phòng Công tác sinh viên. Về phía Trường Đại học CMC có sự hiện diện của ông Lê Anh Tuấn – Phó Chủ tịch VP Tập đoàn CMC, Phó Giám đốc Trường Đại học CMC; PGS.TS. Vũ Việt Vũ – Trưởng khoa Công nghệ Thông tin và Truyền thông; ông Lê Thanh Tùng – Phó Trưởng phòng Công tác sinh viên; cùng đại diện cán bộ các phòng, ban chức năng.
+
+Thành lập năm 2012, RikkeiSoft hiện có mặt tại 5 quốc gia gồm Việt Nam, Nhật Bản, Mỹ, Thái Lan và Hàn Quốc, với hơn 2.200 nhân sự, trong đó trên 90% là kỹ sư công nghệ. Tại Việt Nam, RikkeiSoft đã có mặt tại 4 thành phố lớn: Hà Nội, Đà Nẵng, Huế và TP. Hồ Chí Minh. Doanh nghiệp kiên định với 5 giá trị cốt lõi: Khát vọng – Cầu tiến – Sáng tạo – Tận tâm – Chia sẻ, hướng tới mục tiêu trở thành một trong những công ty công nghệ hàng đầu Việt Nam, đưa sản phẩm và giá trị Việt ra toàn cầu.
+
+Về dịch vụ công nghệ thông tin, RikkeiSoft chuyên cung ứng nguồn lực và giải pháp công nghệ, phát triển phần mềm, ứng dụng web và di động, kiểm thử phần mềm và đảm bảo chất lượng (QA), dịch vụ quản lý, thiết kế giao diện người dùng và trải nghiệm người dùng (UI/UX), dịch vụ tài nguyên CAD/CAM và chuyên cung ứng giải pháp công nghệ cho khách hàng. Bên cạnh hoạt động phát triển phần mềm, giải pháp công nghệ, trong hơn một thập kỷ qua, RikkeiSoft không ngừng mở rộng hệ sinh thái gồm Rikkei Digital, Rikkei Education, Rikkei AI, cung cấp các dịch vụ đào tạo, giải pháp AI, EdTech và kết nối việc làm.
+
+Phát biểu tại lễ ký kết, ông Nguyễn Viết Lâm – Phó Tổng Giám đốc RikkeiSoft cho biết, giáo dục luôn là một trong những lĩnh vực mà công ty đặc biệt quan tâm, vì vậy ban lãnh đạo sẵn sàng dành thời gian tham gia, hỗ trợ và đồng hành trực tiếp trong các hoạt động đào tạo, nhằm đảm bảo sinh viên nhận được những giá trị thiết thực và sát với nhu cầu thực tế của thị trường. Rikkei Education ngay từ đầu đã xác định sứ mệnh đào tạo gắn chặt với doanh nghiệp. “Chúng tôi muốn hợp tác với Trường Đại học CMC không chỉ để mở ra cơ hội thực tập, mà còn cùng mở rộng sang nhiều lĩnh vực đào tạo khác, nhằm tạo ra những nguồn nhân lực chất lượng cao cho ngành công nghệ”, Phó Tổng Giám đốc RikkeiSoft nhấn mạnh.
+
+Ông nhấn mạnh ba từ khóa “hợp lực – đồng hành – phát triển”, xem đây là kim chỉ nam để hai bên cùng phát huy sức trẻ, đi nhanh và hiệu quả hơn.
+
+Đại diện Nhà trường, ông Lê Anh Tuấn cho biết: “Trường Đại học CMC và RikkeiSoft đều có chung khát vọng và tầm nhìn ‘go global’, cùng sứ mệnh nâng cao năng lực cạnh tranh quốc tế cho nhân lực trẻ. Mục tiêu của Nhà trường là mỗi năm đưa ít nhất 100 sinh viên ra nước ngoài để học tập, nghiên cứu, trao đổi. Hoạt động hợp tác cùng doanh nghiệp sẽ góp phần hiện thực hóa mục tiêu đó”.
+
+Hoạt động hợp tác với doanh nghiệp là một trong những trụ cột quan trọng trong chiến lược phát triển của Trường Đại học CMC. Với nhiều điểm tương đồng về tầm nhìn, khát vọng và nền tảng công nghệ, mối quan hệ hợp tác chiến lược giữa Trường Đại học CMC và RikkeiSoft, Rikkei Education hứa hẹn tiếp tục tạo ra những giá trị bền vững, không chỉ phục vụ mục tiêu đào tạo nhân lực chất lượng cao, đẩy mạnh chuyển đổi số và trang bị cho sinh viên hành trang hội nhập quốc tế, mà còn góp phần thúc đẩy sự phát triển của ngành công nghệ và nền kinh tế số.
+
+Từ góc độ đào tạo chuyên ngành, PGS.TS. Vũ Việt Vũ – Trưởng khoa Công nghệ Thông tin và Truyền thông, Trường Đại học CMC cho biết: “Nhà trường tổ chức chương trình học kỳ doanh nghiệp kéo dài 16 tuần, giúp sinh viên vừa được huấn luyện văn hóa doanh nghiệp, kỹ năng mềm, vừa trực tiếp tham gia dự án thực tế. Sự đồng hành của RikkeiSoft sẽ giúp chương trình này phát huy tối đa giá trị”.
+
+Một trong những điểm nổi bật trong chương trình đào tạo của Trường Đại học CMC đó là học kỳ thực tập tại doanh nghiệp (on-job training). Chương trình không chỉ mang đến môi trường trải nghiệm sát với nhu cầu thị trường, mà còn tạo điều kiện để sinh viên rèn luyện tính kỷ luật, tinh thần trách nhiệm và khả năng giải quyết vấn đề – những yếu tố then chốt khi làm việc trong ngành công nghệ thông tin. Việc được tham gia vào các dự án quy mô lớn cùng đội ngũ chuyên gia giàu kinh nghiệm của RikkeiSoft cũng giúp sinh viên hiểu rõ hơn quy trình phát triển sản phẩm, chuẩn mực chất lượng quốc tế và những xu hướng công nghệ mới. Đây là bước đệm quan trọng để sinh viên Trường Đại học CMC tự tin hội nhập, sẵn sàng “go global” ngay sau khi tốt nghiệp.
+
+Tại sự kiện, ông Đặng Thái Hòa – Tổng Giám đốc RikkeiSoft bày tỏ kỳ vọng: “Thời đại AI đòi hỏi chiến lược mới. Trường Đại học CMC đã đưa ra định hướng AI-X, RikkeiSoft cũng tập trung nghiên cứu AI để tối ưu hiệu suất. Chúng tôi sẽ cùng CMC triển khai các mô hình hợp tác thực chất, gắn kết đào tạo với nhu cầu nhân lực thị trường. Hơn thế nữa, chúng tôi mong muốn đồng hành trong việc ươm mầm các tài năng trẻ, giúp các em có cơ hội tiếp cận công nghệ tiên tiến, thử sức ở những dự án toàn cầu và từng bước khẳng định vị thế của trí tuệ Việt trên bản đồ công nghệ thế giới”.
+
+Theo ông, chiến lược quan trọng nhất của Rikkei Education là tăng cường hợp tác với các trường đại học, và đơn vị kỳ vọng sau sự kiện này, quan hệ hợp tác với Trường Đại học CMC sẽ tiếp tục đi vào chiều sâu và mang tính thực tiễn cao hơn. Hiện nay, nhu cầu về nhân sự công nghệ thông tin chất lượng cao tại doanh nghiệp trong nước và quốc tế là rất lớn. Nếu trong thời gian học, sinh viên chuẩn bị tốt bằng trải nghiệm thực tập và trau dồi ngoại ngữ, cơ hội việc làm sẽ luôn rộng mở.
+
+Hai bên thống nhất triển khai mô hình thực tập quy mô dự kiến 100 sinh viên, sử dụng hệ thống Internship Incomnet do Rikkei Education phát triển. Đây không chỉ là chương trình thực tập thông thường mà được thiết kế như một lộ trình phát triển toàn diện, bắt đầu từ việc trang bị văn hóa doanh nghiệp, kỹ năng mềm và kiến thức nền tảng, đến việc trực tiếp tham gia các dự án thực tế.
+
+Theo đó, toàn bộ quá trình được hỗ trợ bởi nền tảng tích hợp AI, cho phép theo dõi tiến độ và hỗ trợ sinh viên 24/7, đảm bảo mỗi cá nhân đều đạt hiệu quả tối đa. Hoàn thành chương trình, sinh viên không chỉ tích lũy được kinh nghiệm thực tiễn mà còn mở rộng cơ hội nghề nghiệp trong hệ sinh thái RikkeiSoft tại Việt Nam và thị trường quốc tế.
+
+Trong bối cảnh ngành công nghệ liên tục thay đổi, đặc biệt trước làn sóng bùng nổ của trí tuệ nhân tạo, việc sinh viên được trải nghiệm môi trường làm việc thực tế, tiếp xúc với các chuyên gia giàu kinh nghiệm và nắm bắt cách thức vận hành doanh nghiệp chính là chìa khóa để tự tin hội nhập. Sự hợp tác giữa Trường Đại học CMC và RikkeiSoft không chỉ mở ra nhiều cơ hội phát triển kỹ năng, nghề nghiệp cho sinh viên mà còn thể hiện rõ cam kết của Nhà trường trong việc triển khai mô hình đào tạo gắn kết chặt chẽ với nhu cầu nhân lực của thị trường, sẵn sàng đồng hành cùng thế hệ trẻ trên hành trình vươn tầm quốc tế.
+
+- Lễ ký kết Biên bản ghi nhớ hợp tác toàn diện giữa Trường Đại học CMC và Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank): Cam kết đồng hành và trao giá trị bền vững cho sinh viên
+- ASUS Việt Nam ký kết hợp tác với Trường Đại học CMC: Đồng hành và cung cấp laptop dành riêng cho sinh viên K4
+- “Bắt tay” Appota Group, Trường Đại học CMC thúc đẩy mô hình đào tạo gắn kết thực tiễn doanh nghiệp, mở rộng cơ hội thực tập – việc làm cho sinh viên

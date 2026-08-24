@@ -1,0 +1,52 @@
+# Trường Đại học CMC đón tiếp và làm việc với Trường Đại học Konyang (Hàn Quốc) và Tập đoàn iCOGroup – Kết nối cơ hội đào tạo, thực tập và việc làm cho sinh viên
+
+* **Nguồn:** [https://cmcu.edu.vn/truong-dai-hoc-cmc-don-tiep-va-lam-viec-voi-truong-dai-hoc-konyang-han-quoc-va-tap-doan-icogroup-ket-noi-co-hoi-dao-tao-thuc-tap-va-viec-lam-cho-sinh-vien/](https://cmcu.edu.vn/truong-dai-hoc-cmc-don-tiep-va-lam-viec-voi-truong-dai-hoc-konyang-han-quoc-va-tap-doan-icogroup-ket-noi-co-hoi-dao-tao-thuc-tap-va-viec-lam-cho-sinh-vien/)
+* **Ngày đăng:** 2025-05-27T11:40:02+00:00
+* **Danh mục:** nganh_hoc_nghe_nghiep
+
+---
+
+## Trường Đại học CMC đón tiếp và làm việc với Trường Đại học Konyang (Hàn Quốc) và Tập đoàn iCOGroup – Kết nối cơ hội đào tạo, thực tập và việc làm cho sinh viên
+
+Trong khuôn khổ chiến lược tăng cường trao đổi và hợp tác quốc tế, chiều ngày 26/05/2025, Trường Đại học CMC đã đón tiếp và làm việc với đoàn công tác của Trường Đại học Konyang (Hàn Quốc) và Tập đoàn iCOGroup.
+
+Buổi gặp gỡ nhằm thúc đẩy mối quan hệ hợp tác giáo dục, mở rộng cơ hội học tập, thực tập và việc làm cho sinh viên, đồng thời hướng tới triển khai các chương trình đào tạo liên kết quốc tế trong thời gian tới. Sự kiện diễn ra đúng vào dịp kỷ niệm 32 năm thành lập Tập đoàn Công nghệ CMC – cột mốc đặc biệt, đánh dấu bước chuyển mình mạnh mẽ trong chiến lược quốc tế hóa giáo dục của nhà trường, mở ra nhiều triển vọng hợp tác chiến lược trong tương lai.
+
+Về phía Trường Đại học CMC, buổi làm việc có sự hiện diện của ông Lê Anh Tuấn – Phó Giám đốc; ông Lê Thanh Tùng – Phó Trưởng phòng Công tác sinh viên; ThS. Lê Thị Thức – Giảng viên ngành Ngôn ngữ Hàn Quốc; cùng đại diện cán bộ các Phòng/Ban chức năng. Phía Trường Đại học Konyang có sự tham dự của ông Im Song Woo – Trưởng phòng Giáo dục Sinh viên Quốc tế và cô Cao Thị Thu Hà – Quản lý sinh viên Việt Nam tại Trường Đại học Konyang. Đồng hành cùng buổi làm việc có sự hiện diện của Tập đoàn iCOGroup với đại diện là ông Nguyễn Quang Đức – Tổng Giám đốc iCOLanguage và ông Nguyễn Ngọc Ninh – Phụ trách đối ngoại Hàn Quốc.
+
+Trong bối cảnh giáo dục toàn cầu đang chứng kiến những chuyển mình mạnh mẽ, việc xây dựng các mối quan hệ hợp tác quốc tế có vai trò quan trọng trong việc nâng cao chất lượng đào tạo, mở rộng cơ hội phát triển cho sinh viên và khẳng định vị thế. Buổi trao đổi giữa Trường Đại học CMC, Trường Đại học Konyang và Tập đoàn iCOGroup đặt nền móng cho quan hệ hợp tác chiến lược lâu dài trong lĩnh vực đào tạo, nghiên cứu và phát triển nguồn nhân lực quốc tế, mở ra nhiều cơ hội học tập, thực tập và việc làm cho sinh viên trong môi trường toàn cầu hóa.
+
+## Mở rộng cơ hội hợp tác trao đổi sinh viên, gắn kết giữa trường đại học và doanh nghiệp
+
+Phát biểu mở đầu buổi làm việc, ông Lê Anh Tuấn – Phó Giám đốc Trường Đại học CMC – đã bày tỏ sự chào đón nồng nhiệt tới các đối tác quốc tế, đồng thời nhấn mạnh vai trò then chốt của hợp tác quốc tế trong giáo dục hiện đại. Với triết lý “lấy người học làm trung tâm”, Trường Đại học CMC không ngừng hoàn thiện mô hình giáo dục gắn với thực tiễn, chú trọng mở rộng kết nối với doanh nghiệp và các tổ chức quốc tế nhằm nâng cao trải nghiệm học tập – làm việc cho sinh viên trong nước và toàn cầu.
+
+Sở hữu lợi thế nổi bật khi là trường đại học nằm trong lòng doanh nghiệp, Trường Đại học CMC kiên định theo đuổi chiến lược hội nhập quốc tế toàn diện, lấy công nghệ, thực tiễn và hợp tác doanh nghiệp làm trọng tâm trong định hướng đào tạo. Với nền tảng số hóa mạnh mẽ cùng hệ sinh thái “viện – trường – doanh nghiệp”, nhà trường từng bước mở rộng mạng lưới hợp tác trong và ngoài nước, mang đến cho sinh viên cơ hội tiếp cận tri thức quốc tế, trải nghiệm môi trường đa văn hóa và hình thành tư duy toàn cầu – những yếu tố thiết yếu trong thời đại hội nhập sâu rộng.
+
+Tại buổi làm việc, Trường Đại học Konyang cũng giới thiệu những thế mạnh nổi bật trong đào tạo và nghiên cứu, đặc biệt là Trường Y khoa với Bệnh viện Đại học Konyang – một trung tâm thực hành và chăm sóc sức khỏe hàng đầu tại khu vực. Ngoài ra, trường còn sở hữu các chương trình đào tạo định hướng nghề nghiệp thực hành, hệ thống nghiên cứu trí tuệ nhân tạo (AI), cùng mạng lưới hợp tác quốc tế phong phú. Konyang là một trong những cơ sở giáo dục tiên phong tại Hàn Quốc áp dụng hệ thống đào tạo dựa trên năng lực (CBT) trong lĩnh vực y tế, và được Bộ Giáo dục Hàn Quốc đánh giá cao về chất lượng đào tạo.
+
+Đồng hành cùng sự kiện là Tập đoàn iCOGroup – đơn vị tư vấn du học và kết nối nguồn nhân lực quốc tế uy tín tại Việt Nam. Với vai trò cầu nối chiến lược, iCOGroup không chỉ hỗ trợ sinh viên trong hành trình du học mà còn góp phần đưa nguồn nhân lực chất lượng cao của Việt Nam đến gần hơn với thị trường lao động toàn cầu, đặc biệt là tại Hàn Quốc.
+
+Tại sự kiện, đại diện các bên đã cùng nhau thảo luận sâu rộng và thống nhất nhiều định hướng hợp tác thiết thực trong thời gian tới. Trong đó, các chương trình trao đổi học tập ngắn hạn dành cho sinh viên là một nội dung trọng tâm, nhằm giúp sinh viên Trường Đại học CMC có cơ hội trải nghiệm môi trường học tập quốc tế trong thời gian ngắn nhưng mang lại giá trị thực tiễn cao.
+
+Không dừng lại ở đó, Trường Đại học CMC, Trường Đại học Konyang và Tập đoàn iCOGroup cùng hướng đến việc xây dựng mô hình hợp tác đào tạo song phương, thúc đẩy gắn kết chặt chẽ giữa nhà trường và doanh nghiệp. Việc này sẽ góp phần nâng cao chất lượng giảng dạy, hỗ trợ sinh viên phát triển kỹ năng nghề nghiệp và mở rộng năng lực cạnh tranh trên thị trường lao động quốc tế. Đồng thời, các bên cũng bày tỏ kỳ vọng tiến tới ký kết các biên bản ghi nhớ (MOU) chính thức – bước đi quan trọng nhằm thiết lập khuôn khổ hợp tác bền vững, lâu dài và mang lại giá trị thiết thực cho người học.
+
+Đại diện Trường Đại học Konyang bày tỏ sự ấn tượng mạnh mẽ với mô hình đào tạo của Trường Đại học CMC, đặc biệt là định hướng giáo dục ứng dụng, chương trình học kỳ doanh nghiệp và ứng dụng công nghệ AI trong hoạt động quản trị, giảng dạy, nghiên cứu và các dịch vụ dành cho người học. Ông Im Song Woo – Trưởng phòng Giáo dục Sinh viên Quốc tế – chia sẻ: “Chúng tôi không mong cuộc gặp hôm nay chỉ dừng lại ở một buổi trao đổi, mà sẽ là điểm khởi đầu cho những hợp tác thiết thực và sâu sắc hơn trong tương lai. Trước khi đến đây, chúng tôi đã được giới thiệu rằng Trường Đại học CMC có một môi trường học tập rất năng động và hiện đại. Chúng tôi thực sự kỳ vọng sẽ tiến tới những thỏa thuận chính thức và mở rộng thêm nhiều chương trình hợp tác trong thời gian tới”.
+
+## Cơ hội phát triển sự nghiệp quốc tế dành cho sinh viên Trường Đại học CMC
+
+Không chỉ dừng lại ở các thỏa thuận hợp tác mang tính chiến lược, sự kiện còn là dịp để sinh viên Trường Đại học CMC tham gia giao lưu, chia sẻ về định hướng nghề nghiệp với các diễn giả đến từ Tập đoàn iCOGroup và Trường Đại học Konyang. Đây là hoạt động thiết thực, giúp sinh viên nắm bắt xu hướng toàn cầu, đưa ra định hướng rõ ràng cho lộ trình phát triển sự nghiệp sau khi tốt nghiệp đại học.
+
+Tại buổi chia sẻ, ông Nguyễn Quang Đức – Tổng Giám đốc iCO Language, đã truyền tải những góc nhìn sâu sắc và thực tế xoay quanh việc lựa chọn con đường học tập hay làm việc sau khi tốt nghiệp. Ông nhấn mạnh: “Hiện nay, các bạn sinh viên đang có rất nhiều cơ hội tiếp cận thông tin, nhưng mặt khác cũng dễ gặp phải các thông tin chưa kiểm chứng, dẫn đến những lựa chọn sai lệch. Điều quan trọng là hãy học cách chọn lọc, tìm hiểu kỹ lưỡng trước khi ra quyết định – bởi tương lai không nằm ở đâu xa, mà chính là bước đi bạn chọn ngày hôm nay”. Với thông điệp “Go Global – Hãy coi thế giới là nhà, Việt Nam là quê hương”, ông Đức khuyến khích sinh viên mạnh dạn vươn ra thị trường lao động quốc tế, làm giàu trải nghiệm và tư duy toàn cầu hóa. Đặc biệt, ông cũng nhấn mạnh tầm quan trọng của việc học hỏi không ngừng, dám thử – dám sai – dám thay đổi để khám phá bản thân một cách toàn diện và hiệu quả.
+
+Đồng quan điểm, ông Im Song Woo – Trưởng phòng Giáo dục Sinh viên Quốc tế, Trường Đại học Konyang, cũng chia sẻ rằng băn khoăn “nên học tiếp hay đi làm sau tốt nghiệp” là điều không chỉ sinh viên Việt Nam mà sinh viên quốc tế đều gặp phải. Ông nhắn nhủ: “Lựa chọn là quyền của các bạn. Nhưng trước khi lựa chọn, các bạn cần phải tìm hiểu thật kỹ lưỡng. Chỉ khi hiểu rõ bức tranh tổng thể, các bạn mới đưa ra được lựa chọn phù hợp nhất với năng lực, sở thích và mục tiêu của mình”. Từ những chia sẻ chân thực ấy, sinh viên không chỉ được tiếp cận với thông tin đa chiều, mà còn được truyền cảm hứng để tự tin định hướng tương lai một cách chủ động và linh hoạt.
+
+Thông qua những hoạt động đối thoại, chia sẻ giữa doanh nghiệp và sinh viên, Trường Đại học CMC tiếp tục thể hiện vai trò tiên phong trong việc kiến tạo môi trường học tập đề cao sự phát triển toàn diện của người học. Qua đó, sinh viên không chỉ được trang bị kiến thức vững vàng, mà còn có cơ hội tiếp xúc với hệ sinh thái doanh nghiệp và các tổ chức quốc tế, tạo điều kiện để các em sớm tiếp cận thực tiễn, từ đó sẵn sàng hội nhập với môi trường doanh nghiệp và thị trường lao động toàn cầu.
+
+Cũng trong chuyến thăm đến Trường Đại học CMC, đại diện Trường Đại học Konyang và Tập đoàn iCOGroup đã dành thời gian tham quan không gian học tập và một số khu vực chức năng dành cho sinh viên của Trường Đại học CMC. Qua đó, đoàn công tác dành lời khen về môi trường học tập hiện đại, tiên tiến tại Trường.
+
+Buổi làm việc giữa Trường Đại học CMC, Trường Đại học Konyang và Tập đoàn iCOGroup đã diễn ra thành công tốt đẹp, thể hiện tinh thần hợp tác mạnh mẽ giữa các bên. Những nội dung được trao đổi trong buổi làm việc là nền tảng vững chắc cho các chương trình hợp tác trong tương lai. Với vị thế là một trường đại học tiên phong trong ứng dụng công nghệ và nghiên cứu, Trường Đại học CMC không ngừng phát triển quan hệ đối tác với các doanh nghiệp, tổ chức uy tín nhằm nâng cao chất lượng đào tạo, đồng thời tạo ra môi trường học tập định hướng chuẩn quốc tế cho sinh viên.
+
+- Trường Đại học CMC ký kết hợp tác chiến lược với APC Corporation: Thúc đẩy mô hình liên kết đào tạo – tuyển dụng – nghiên cứu, mở rộng cơ hội nghề nghiệp cho sinh viên
+- Trường Đại học CMC đón tiếp và làm việc với ASKUL LOGIST – một trong những doanh nghiệp hàng đầu về logistics và phân phối tại Nhật Bản, mang đến cơ hội thực tập quốc tế cho sinh viên
+- Lãnh đạo Trường Đại học CMC đón tiếp và làm việc với đại diện Trường Đại học Ngoại ngữ Bắc Kinh (Trung Quốc)
+- Trường Đại học CMC ký kết biên bản ghi nhớ hợp tác với Ngân hàng Thương mại Cổ phần An Bình (ABBANK)

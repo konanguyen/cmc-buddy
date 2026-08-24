@@ -1,0 +1,31 @@
+# Hào hứng với sự kiện Company Tour ghé thăm CMC Global của sinh viên Khoa Công nghệ Thông tin & Truyền thông
+
+* **Nguồn:** [https://cmcu.edu.vn/hao-hung-voi-su-kien-company-tour-ghe-tham-cmc-global-cua-sinh-vien-khoa-cong-nghe-thong-tin-truyen-thong/](https://cmcu.edu.vn/hao-hung-voi-su-kien-company-tour-ghe-tham-cmc-global-cua-sinh-vien-khoa-cong-nghe-thong-tin-truyen-thong/)
+* **Ngày đăng:** 2022-12-22T20:24:30+00:00
+* **Danh mục:** nganh_hoc_nghe_nghiep
+
+---
+
+## Hào hứng với sự kiện Company Tour ghé thăm CMC Global của sinh viên Khoa Công nghệ Thông tin & Truyền thông
+
+Chiều ngày 22/12/2022, sinh viên lớp IT1 & IT2 Khoa Công nghệ Thông tin, Trường Đại học CMC đã có chuyến tham quan CMC Global – đơn vị thành viên thuộc Tập đoàn Công nghệ CMC hoạt động trong lĩnh vực cung cấp sản phẩm, giải pháp và dịch vụ CNTT-TT. Chương trình nằm trong chuỗi sự kiện “Company Tour 2022 – The Key to CMC Global” được Công ty CMC Global tổ chức, nhằm mục đích giúp sinh viên có thêm góc nhìn thực tế về ngành công nghệ thông tin để có định hướng rõ ràng về nghề nghiệp trong tương lai.
+
+Cùng tham dự sự kiện, về phía Trường Đại học CMC có sự tham dự của TS. Nguyễn Kim Cương – Trưởng ban Đại học Số; PGS.TS. Nguyễn Văn Thành – Giám đốc Chương trình Đào tạo Công nghệ Thông tin, Phó Chủ tịch Hội đồng Chuyên môn Khoa; ThS. Vương Quốc Hùng – Trưởng phòng Tuyển sinh. Về phía Công ty CMC Global có sự tham dự của anh Nguyễn Việt Bách – Giám đốc sản xuất CMC Global; anh Nguyễn Trần Phương – Giám đốc sản xuất của khối G3, phụ trách thị trường Châu Á – Thái Bình Dương; anh Tạ Quang Huy – Quản lý dự án DU1.3.
+
+Chuyến tham quan đã kết nối và lan tỏa giá trị tích cực đến cộng đồng sinh viên, đồng thời giúp các bạn hiểu hơn về môi trường làm việc tại CMC Global, quy trình sản xuất phần mềm tại công ty IT Outsourcing. Dịp này cũng là cơ hội để các sinh viên hiểu hơn về môi trường làm việc tại CMC Global, tiếp cận đến các cơ hội thực tập, việc làm đang chờ đón các sinh viên Trường Đại học CMC tại CMC Global.
+
+Mở đầu chương trình, các sinh viên được giới thiệu sơ lược về quá trình hình thành và phát triển, các lĩnh vực, thị trường hoạt động của CMC Global. Đồng thời được giới thiệu những thông tin cơ bản về ngành CNTT, một số loại hình doanh nghiệp mà các bạn có thể làm việc sau khi ra trường, quy trình sản xuất phần mềm cơ bản tại công ty IT Outsourcing nói chung và CMC Global nói riêng. Theo đó, đây sẽ là mô hình mà các bạn sau này sẽ trực tiếp làm việc.
+
+Nằm trong khuôn khổ chương trình, talkshow “Bí kíp từ bàn học đến bàn làm việc” đã mang đến cho các bạn sinh viên cơ hội được lắng nghe những chia sẻ và trao đổi trực tiếp với 2 diễn giả đến từ CMC Global là anh Nguyễn Trần Phương và Tạ Quang Huy. Đặc biệt, phần trao đổi đã cung cấp nhiều thông tin hữu ích dành cho các bạn sinh viên để có thêm kinh nghiệm phục vụ cho quá trình làm việc tại các công ty IT Outsourcing nói chung cũng như CMC Global nói riêng trong tương lai.
+
+Giải đáp câu hỏi làm thế nào để gặt hái được thành công trong sự nghiệp, anh Tạ Quang Huy đã đưa ra những lời khuyên trong việc sắp xếp quỹ thời gian khoa học và cân bằng giữa công việc, học tập và cuộc sống để hoàn thành tối đa những mục tiêu, kế hoạch đã đặt ra. “Khi mục tiêu được đặt ra, bằng mọi cách hãy cố gắng hoàn thành nó”, Quản lý dự án DU1.3 – CMC Global nhắn nhủ đến sinh viên Trường Đại học CMC. Anh cũng cho biết, sinh viên nên trang bị nền tảng kiến thức vững chắc ngay từ khi còn ngồi trên ghế nhà trường, đặc biệt là ngoại ngữ. Ngoài lập trình, các bạn có thể học thêm những kỹ năng mềm như lập kế hoạch, thuyết trình, giao tiếp,… Đồng thời cũng cần có kế hoạch và mục tiêu rõ ràng cho bản thân để kịp thời nắm bắt cơ hội việc làm tốt nhất sau khi ra trường.
+
+Nhấn mạnh về môi trường làm việc rộng mở và sẵn sàng trao cơ hội cho các bạn sinh viên, anh Nguyễn Trần Phương cho biết, ngay từ năm thứ hai, 10 sinh viên Khoa Công nghệ Thông tin & Truyền thông có thành tích học tập xuất sắc nhất sẽ có cơ hội được tham gia trực tiếp vào quá trình làm việc tại trung tâm sản xuất G3 với tổng thời lượng 40 giờ làm việc. “Việc đón nhận sinh viên đến thực tập tại công ty nằm trong chiến lược phát triển nhân lực và mở rộng quy mô của CMC Global trong tương lai gần. CMC Global sẽ tạo mọi điều kiện tốt nhất cho các em học tập và phát triển bản thân để vững bước trên con đường sự nghiệp sau này. Hy vọng trong thời gian tới, tôi sẽ sớm có cơ hội tiếp đón sinh viên Trường Đại học CMC với vị trí là một đồng nghiệp tài năng, một người bạn đồng hành tương lai.”, Giám đốc sản xuất khối G3 – CMC Global cho biết.
+
+Dựa trên góc nhìn từ nhà tuyển dụng, anh Phương cũng đưa ra lời khuyên đối với các sinh viên Trường Đại học CMC. Theo đó, các sinh viên có thể chủ động nắm bắt những cơ hội làm việc ở bậc Fresher ngay từ khi còn ngồi trên ghế nhà trường, tuy nhiên cũng cần trau dồi kiến thức và đảm bảo chất lượng học tập để đạt kết quả tốt và nhận được sự tiến cử của thầy cô sau khi tốt nghiệp.
+
+Phần chia sẻ thân mật và cởi mở với các chuyên gia đã mang đến cho sinh viên Khoa Công nghệ Thông tin cơ hội được hiểu hơn về công việc thực tế, để từ đó tiếp tục trang bị thêm cho mình những kiến thức, kỹ năng chuyên môn và kỹ năng mềm cần thiết trong thời đại số. Không chỉ được lắng nghe những chia sẻ tâm huyết từ các diễn giả trong phần Q&A, các bạn sinh viên cũng đã được tham gia minigame để rinh về nhiều phần quà hấp dẫn.
+
+Tiếp nối chương trình, sinh viên di chuyển đến các phòng ban của công ty, tham quan thực tế môi trường làm việc chuyên nghiệp và được nghe thêm về công việc cụ thể của các phòng thuộc doanh nghiệp. Sự đón tiếp thân thiện, nhiệt tình từ đội ngũ cán bộ, nhân viên CMC Global đã tiếp thêm cho sinh viên Trường Đại học CMC cảm hứng say mê với ngành học mình theo đuổi.
+
+Kết thúc chuyến đi, sinh viên Khoa CNTT&TT đã được trang bị thêm hàng loạt bí kíp chinh phục nhà tuyển dụng trong tương lai, tìm thấy “chiếc chìa khóa” để chinh phục cánh cửa công nghệ thông tin cho riêng mình. Không chỉ mang đến những trải nghiệm thú vị tại môi trường làm việc thực tế, chuyến Company Tour đến CMC Global còn giúp cho các bạn sinh viên có thêm động lực xây dựng lộ trình rèn luyện bản thân và phấn đấu để có việc làm phù hợp trong tương lai.
