@@ -1,12 +1,13 @@
-# 🎓 CMC Buddy — Academic & Admissions Advisor Skill for Antigravity
+# 🎓 CMC Buddy — Universal Academic & Admissions Advisor Skill for AI Agents
 
-[![Antigravity Skill](https://img.shields.io/badge/Antigravity-Skill-blue.svg)](https://antigravity.google)
+[![Universal AI Skill](https://img.shields.io/badge/AI_Agent-Universal_Skill-blueviolet.svg)](https://github.com)
+[![Antigravity Compatible](https://img.shields.io/badge/Antigravity-Compatible-blue.svg)](https://antigravity.google)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Institution: CMC University](https://img.shields.io/badge/Institution-CMC_University-red.svg)](https://cmcu.edu.vn)
 
-**CMC Buddy** là bộ kỹ năng (Skill) thông minh dành cho trợ lý AI Antigravity, đóng vai trò là chuyên gia **Cố vấn Tuyển sinh & Quy chế Đào tạo** toàn diện của **Trường Đại học CMC (CMC University)**. 
+**CMC Buddy** là bộ kỹ năng (Skill / Knowledge Package) thông minh và độc lập nền tảng, được thiết kế để tích hợp vào **mọi trợ lý AI và hệ thống AI Agent** (Antigravity, LangChain, LlamaIndex, CrewAI, AutoGen, OpenAI Custom GPTs / Assistants API, Claude Projects, Ollama/vLLM Local Agents...), đóng vai trò là chuyên gia **Cố vấn Tuyển sinh & Quy chế Đào tạo** toàn diện của **Trường Đại học CMC (CMC University)**.
 
-Skill được thiết kế theo kiến trúc **RAG (Retrieval-Augmented Generation)** với kho tri thức dày đặc, đã được lọc sạch 100% tạp âm, quảng cáo và đường dẫn rác, giúp Agent trả lời nhanh chóng, chính xác tuyệt đối và trích dẫn chuẩn theo văn bản quy chế chính thức.
+Skill được xây dựng theo kiến trúc **RAG (Retrieval-Augmented Generation)** với kho tri thức dày đặc, đã được lọc sạch 100% tạp âm, quảng cáo và đường dẫn rác, giúp bất kỳ Agent AI nào cũng có thể trả lời nhanh chóng, chính xác tuyệt đối và trích dẫn chuẩn theo văn bản quy chế chính thức.
 
 ---
 
@@ -57,8 +58,8 @@ Dữ liệu trong bộ Skill được thu thập và thẩm định từ các ng
 
 ```text
 .agents/skills/cmc-buddy/
-├── README.md                          # Tài liệu giới thiệu & hướng dẫn cài đặt skill
-├── SKILL.md                           # File cấu hình & chỉ dẫn hành vi chính cho Agent
+├── README.md                          # Tài liệu giới thiệu & hướng dẫn tích hợp cho mọi Agent
+├── SKILL.md                           # File cấu hình & chỉ dẫn hành vi chuẩn cho AI Agent
 └── references/                        # Kho tri thức tham chiếu RAG (đã lọc sạch tạp âm)
     ├── quy_che_dao_tao.md             # Toàn văn 27 Điều Quy chế đào tạo đại học ĐH CMC
     ├── dia_chi_co_so.md               # Địa chỉ trụ sở & các cơ sở đào tạo HN & TP.HCM
@@ -77,28 +78,25 @@ Dữ liệu trong bộ Skill được thu thập và thẩm định từ các ng
 
 ---
 
-## 💻 Hướng Dẫn Cài Đặt & Sử Dụng
+## 💻 Hướng Dẫn Tích Hợp Vào Các Nền Tảng AI Agent
 
-### Cách 1: Sử dụng trong Project Workspace (Khuyên dùng)
-Đặt thư mục `cmc-buddy` vào thư mục `.agents/skills/` tại gốc workspace của bạn:
-```bash
-your-project/
-└── .agents/
-    └── skills/
-        └── cmc-buddy/
+### 1. Antigravity Agent
+Đặt thư mục `cmc-buddy` vào `.agents/skills/cmc-buddy/` tại thư mục dự án hoặc `builtin/skills/cmc-buddy/`.
+
+### 2. LangChain / LlamaIndex / Custom Python Agent
+Nạp toàn bộ file trong thư mục `references/` vào Vector Store (ChromaDB, FAISS, Qdrant):
+```python
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
+from langchain_community.vectorstores import Chroma
+from langchain_openai import OpenAIEmbeddings
+
+loader = DirectoryLoader('.agents/skills/cmc-buddy/references', glob="**/*.md", loader_cls=TextLoader)
+docs = loader.load()
+vectorstore = Chroma.from_documents(docs, OpenAIEmbeddings())
 ```
 
-### Cách 2: Cài đặt Toàn cục (Global Skill cho mọi Workspace)
-Sao chép thư mục `cmc-buddy` vào thư mục cấu hình Antigravity của người dùng:
-* **Windows:** `C:\Users\<Your-Username>\.gemini\antigravity\builtin\skills\cmc-buddy\`
-* **macOS / Linux:** `~/.gemini/antigravity/builtin/skills/cmc-buddy/`
-
-### 🚀 Cách kích hoạt Skill:
-Agent Antigravity sẽ **tự động kích hoạt** kỹ năng này bất cứ khi nào bạn đặt câu hỏi liên quan đến Trường Đại học CMC, ví dụ:
-* *"Trường Đại học CMC có những cơ sở nào?"*
-* *"Kỳ thi CMC-TEST gồm những môn gì?"*
-* *"Học bổng 100% của CMC cần duy trì điểm GPA bao nhiêu?"*
-* *"Ngành Trí tuệ nhân tạo (AI) tại CMC học mấy năm và có chuẩn đầu ra tiếng Anh thế nào?"*
+### 3. OpenAI Custom GPTs / Claude Projects / CrewAI
+Tải trực tiếp các file trong thư mục `references/` lên phần **Knowledge / Project Knowledge** của Custom GPT hoặc Claude Project để sử dụng ngay mà không cần cấu hình thêm code.
 
 ---
 
@@ -107,4 +105,4 @@ Agent Antigravity sẽ **tự động kích hoạt** kỹ năng này bất cứ 
 * **Tác giả:** konanguyen
 * **Email:** [ng.hao2711@gmail.com](mailto:ng.hao2711@gmail.com)
 * **Phiên bản:** 1.0.0 (Cập nhật tháng 08/2026)
-* **Giấy phép:** MIT License
+* **Giấy phép:** MIT License (Tự do sử dụng, chỉnh sửa và tích hợp vào mọi nền tảng AI)
