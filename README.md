@@ -33,18 +33,21 @@ Skill được xây dựng theo kiến trúc **RAG (Retrieval-Augmented Generati
 * Tóm tắt khoa học, súc tích toàn bộ 6 Khoa đào tạo và hơn 15 chuyên ngành mũi nhọn:
   - **Khoa CNTT & TT (FICT):** Trí tuệ nhân tạo (AI), Khoa học máy tính, Kỹ thuật phần mềm, Công nghệ thông tin, An toàn thông tin.
   - **Khoa Kinh doanh & Quản lý (FBM):** Digital Marketing, Quản trị kinh doanh, Kinh doanh quốc tế, Logistics & Quản lý chuỗi cung ứng, Thương mại điện tử.
-  - **Khoa Mỹ thuật & Thiết kế (FAD):** Thiết kế đồ họa / Mỹ thuật số, Đồ họa Game.
+  - **Khoa Mỹ thuật & Thiết kế (FAD):** Thiết kế đồ họa / Thiết kế mỹ thuật số (TKMTS), Đồ họa Game.
   - **Khoa Ngôn ngữ & Văn hóa (FLC):** Ngôn ngữ Trung (Liên kết 2+2 với ĐH Sư phạm Thủ đô Bắc Kinh), Ngôn ngữ Hàn, Ngôn ngữ Nhật, Ngôn ngữ Anh.
   - **Khoa Truyền thông & Marketing (FIMC):** Quan hệ công chúng (PR), Truyền thông đa phương tiện.
   - **Khoa Vi điện tử & Viễn thông:** KT Điện tử - Viễn thông (Bán dẫn), Robot thông minh & AI.
 
-### 5. 👨‍🏫 Đội ngũ Giảng viên phân loại theo từng Khoa
+### 5. 💻 Tư Vấn Chọn Mua Laptop & Thiết Bị Theo Ngành
+* Khuyến nghị chi tiết cấu hình máy tính (CPU, GPU rời, RAM, chuẩn màu màn hình sRGB/DCI-P3) cho sinh viên Thiết kế Mỹ thuật số, CNTT/AI, Kinh doanh, Ngôn ngữ.
+
+### 6. 👨‍🏫 Đội ngũ Giảng viên phân loại theo từng Khoa
 * Danh sách giảng viên được phân nhóm minh bạch theo từng Khoa (FICT, FBM, FAD, FLC, FIMC, Vi điện tử, Đại cương).
 
-### 6. 🌟 Humans of CMCU — Gương Mặt Sinh Viên Tiêu Biểu
-* Toàn bộ 73 bài viết và tổng hợp các câu chuyện truyền cảm hứng, thủ khoa, nghiên cứu khoa học, học bổng Erasmus Mundus Châu Âu, học bổng ĐH Thanh Hoa, cơ hội việc làm quốc tế.
+### 7. 🌟 Humans of CMCU — Gương Mặt Sinh Viên Tiêu Biểu
+* Toàn bộ câu chuyện truyền cảm hứng, thủ khoa, nghiên cứu khoa học, học bổng Erasmus Mundus Châu Âu, học bổng ĐH Thanh Hoa, cơ hội việc làm quốc tế.
 
-### 7. ⚖️ Quy chế Học vụ & Điều kiện Tốt nghiệp
+### 8. ⚖️ Quy chế Học vụ & Điều kiện Tốt nghiệp
 * Thời gian đào tạo & Khung tín chỉ: **Cử nhân** (9 học kỳ, 120-135 TC) vs **Kỹ sư** (11 học kỳ, 150-164 TC).
 * Chuẩn đầu ra Ngoại ngữ: **Hệ Chuẩn (SM)** đạt Bậc 3/6 (B1 CEFR), **Hệ Song ngữ (GM)** đạt Bậc 4/6 (B2 CEFR).
 * Quy định thi lại (điểm tối đa mức C), học lại (lấy điểm cao nhất), cảnh báo học tập và xét điều kiện tốt nghiệp.
@@ -63,6 +66,7 @@ Skill được xây dựng theo kiến trúc **RAG (Retrieval-Augmented Generati
     ├── thong_tin_tuyen_sinh.md        # Công thức tính điểm xét tuyển (Thang 40), CMC-TEST
     ├── chinh_sach_hoc_bong.md         # Quy định học phí, học bổng tuyển sinh & KKHT
     ├── cac_nganh_dao_tao.md           # Tóm tắt súc tích, cấu trúc rõ ràng 6 Khoa & 15+ ngành
+    ├── tu_van_laptop_thiet_bi.md      # Hướng dẫn tư vấn cấu hình laptop chi tiết theo từng ngành
     ├── doi_ngu_giang_vien.md          # Danh sách giảng viên phân chia rõ ràng theo từng Khoa
     ├── humans_of_cmcu.md              # Tổng hợp gương mặt sinh viên & cựu sinh viên tiêu biểu
     ├── campus_tieng_anh_giang_vien.md # Lộ trình tiếng Anh, Smart Campus
@@ -75,28 +79,6 @@ Skill được xây dựng theo kiến trúc **RAG (Retrieval-Augmented Generati
         ├── su_kien_hop_tac/           # Bài viết sự kiện, hợp tác quốc tế & doanh nghiệp
         └── tin_tuc_chung/             # Bài viết tin tức hoạt động chung
 ```
-
----
-
-## 💻 Hướng Dẫn Tích Hợp Vào Các Nền Tảng AI Agent
-
-### 1. Antigravity Agent
-Đặt thư mục `cmc-buddy` vào `.agents/skills/cmc-buddy/` tại thư mục dự án hoặc `builtin/skills/cmc-buddy/`.
-
-### 2. LangChain / LlamaIndex / Custom Python Agent
-Nạp toàn bộ file trong thư mục `references/` vào Vector Store (ChromaDB, FAISS, Qdrant):
-```python
-from langchain_community.document_loaders import DirectoryLoader, TextLoader
-from langchain_community.vectorstores import Chroma
-from langchain_openai import OpenAIEmbeddings
-
-loader = DirectoryLoader('.agents/skills/cmc-buddy/references', glob="**/*.md", loader_cls=TextLoader)
-docs = loader.load()
-vectorstore = Chroma.from_documents(docs, OpenAIEmbeddings())
-```
-
-### 3. OpenAI Custom GPTs / Claude Projects / CrewAI
-Tải trực tiếp các file trong thư mục `references/` lên phần **Knowledge / Project Knowledge** của Custom GPT hoặc Claude Project để sử dụng ngay mà không cần cấu hình thêm code.
 
 ---
 

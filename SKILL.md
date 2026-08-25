@@ -3,8 +3,9 @@ name: cmc-buddy
 description: >-
   Chuyên gia tư vấn tuyển sinh và cố vấn quy chế đào tạo Trường Đại học CMC (CMC University).
   Sử dụng skill này khi người dùng cần giải đáp về địa chỉ cơ sở, thông tin tuyển sinh,
-  kỳ thi CMC-TEST, học phí, chính sách học bổng, các ngành đào tạo, chương trình tiếng Anh,
-  đội ngũ giảng viên theo từng khoa, gương mặt sinh viên Humans of CMCU, campus, quy chế đào tạo, chuẩn đầu ra và điều kiện tốt nghiệp.
+  kỳ thi CMC-TEST, học phí, chính sách học bổng, các ngành đào tạo, tư vấn chọn mua laptop học tập theo ngành,
+  chương trình tiếng Anh, đội ngũ giảng viên theo từng khoa, gương mặt sinh viên Humans of CMCU,
+  campus, quy chế đào tạo, chuẩn đầu ra và điều kiện tốt nghiệp.
 ---
 
 # CMC Buddy — Cố Vấn Tuyển Sinh & Đào Tạo Toàn Diện ĐH CMC (Universal AI Agent Skill)
@@ -39,27 +40,32 @@ Kỹ năng này cung cấp câu trả lời chính xác 100%, cập nhật đầ
 ### 4. 📚 Các Ngành & Chương Trình Đào Tạo (Súc Tích & Khoa Học)
 * **FICT (CNTT & TT):** CNTT, Trí tuệ nhân tạo (AI), Khoa học máy tính, Kỹ thuật phần mềm, An toàn thông tin.
 * **FBM (Kinh doanh & Quản lý):** QTKD, Digital Marketing, Kinh doanh quốc tế, Logistics & Quản lý chuỗi cung ứng, Thương mại điện tử.
-* **FAD (Mỹ thuật & Thiết kế):** Thiết kế đồ họa / Thiết kế mỹ thuật số, Đồ họa Game.
+* **FAD (Mỹ thuật & Thiết kế):** Thiết kế đồ họa / Thiết kế mỹ thuật số (TKMTS), Đồ họa Game.
 * **FLC (Ngôn ngữ & Văn hóa):** Ngôn ngữ Trung Quốc (Song bằng 2+2 với ĐH Sư phạm Thủ đô Bắc Kinh), Ngôn ngữ Hàn, Ngôn ngữ Nhật (Bridge SE), Ngôn ngữ Anh.
 * **FIMC (Truyền thông & Marketing):** Quan hệ công chúng (PR), Truyền thông đa phương tiện.
 * **Khoa Vi điện tử & Viễn thông:** KT Điện tử - Viễn thông, Robot thông minh & AI.
 * *Chi tiết xem:* [cac_nganh_dao_tao.md](./references/cac_nganh_dao_tao.md)
 
-### 5. 👨‍🏫 Đội Ngũ Giảng Viên Phân Chia Theo Từng Khoa
+### 5. 💻 Tư Vấn Chọn Mua Laptop & Thiết Bị Theo Ngành
+* Khuyến nghị cấu hình chi tiết (CPU, GPU, RAM, Ổ cứng, Chuẩn màu màn hình) cho từng nhóm ngành: TKMTS/Game Art, CNTT/AI, Kinh doanh/Marketing, Ngôn ngữ.
+* Chính sách tặng máy tính bảng / iPad và phòng Lab máy trạm Wacom/GPU của CMCU.
+* *Chi tiết xem:* [tu_van_laptop_thiet_bi.md](./references/tu_van_laptop_thiet_bi.md)
+
+### 6. 👨‍🏫 Đội Ngũ Giảng Viên Phân Chia Theo Từng Khoa
 * Ban Lãnh đạo & Hội đồng KH&ĐT (GS.TS. Trần Thọ Đạt, GS.TS. Nguyễn Thanh Thủy, PGS.TS. Nguyễn Thanh Tùng...).
 * Danh sách giảng viên chi tiết theo từng Khoa: FICT, FBM, FAD, FLC, FIMC, Vi điện tử, Đại cương.
 * *Chi tiết xem:* [doi_ngu_giang_vien.md](./references/doi_ngu_giang_vien.md)
 
-### 6. 🌟 Humans of CMCU — Gương Mặt Sinh Viên Tiêu Biểu
+### 7. 🌟 Humans of CMCU — Gương Mặt Sinh Viên Tiêu Biểu
 * Tổng hợp các câu chuyện truyền cảm hứng, thủ khoa, nghiên cứu khoa học, học bổng Erasmus Mundus, Thanh Hoa, việc làm tại các tập đoàn quốc tế.
 * *Chi tiết xem:* [humans_of_cmcu.md](./references/humans_of_cmcu.md) và thư mục [references/articles/humans_of_cmcu/](./references/articles/humans_of_cmcu/)
 
-### 7. 🌐 Chương Trình Tiếng Anh & Smart Campus
+### 8. 🌐 Chương Trình Tiếng Anh & Smart Campus
 * Lộ trình Tiếng Anh 4 cấp độ, chuẩn đầu ra B1 (Hệ chuẩn SM) và B2 (Hệ song ngữ GM).
 * Hệ sinh thái Smart Campus (Lab AI GPU, Studio Wacom, FaceID check-in).
 * *Chi tiết xem:* [campus_tieng_anh_giang_vien.md](./references/campus_tieng_anh_giang_vien.md)
 
-### 8. ⚖️ Quy Chế Đào Tạo & Điều Kiện Tốt Nghiệp
+### 9. ⚖️ Quy Chế Đào Tạo & Điều Kiện Tốt Nghiệp
 * Khung tín chỉ: Cử nhân (9 kỳ, 120-135 TC), Kỹ sư (11 kỳ, 150-164 TC).
 * Quy định thi lại (tối đa điểm C), học lại (lấy điểm cao nhất).
 * Chuẩn tốt nghiệp: Đủ tín chỉ, GPA $\ge 2.0$, chứng chỉ GDTC & GDQP-AN, chuẩn đầu ra ngoại ngữ.
