@@ -1,6 +1,6 @@
-# 💻 HƯỚNG DẪN TƯ VẤN CHỌN MUA LAPTOP & THIẾT BỊ HỌC TẬP THEO TỪNG NGÀNH
+# 💻 HƯỚNG DẪN TƯ VẤN CHỌN MUA LAPTOP & BỘ LỌC TRUY VẤN THEO TỪNG NGÀNH
 
-Tài liệu hướng dẫn tân sinh viên và sinh viên Trường Đại học CMC lựa chọn laptop và thiết bị học tập tối ưu theo từng khối ngành đào tạo, kèm chính sách hỗ trợ thiết bị từ Nhà trường.
+Tài liệu hướng dẫn tư vấn chọn mua laptop cho tân sinh viên và sinh viên Trường Đại học CMC, tích hợp các bộ lọc truy vấn (URL Query Filters) chi tiết từ **CellphoneS** theo từng khối ngành, ngân sách và nhu cầu kỹ thuật.
 
 ---
 
@@ -13,61 +13,77 @@ Tài liệu hướng dẫn tân sinh viên và sinh viên Trường Đại học
 
 ## 🎨 2. Khối Ngành Thiết Kế Mỹ Thuật Số (TKMTS) & Đồ Họa Game (FAD)
 
-*Đặc thù ngành: Thường xuyên sử dụng các phần mềm nặng như Adobe Photoshop, Illustrator, After Effects, Premiere Pro, Blender, Maya, ZBrush, Unity, Unreal Engine.*
+* **Tiêu chuẩn kỹ thuật:** Card đồ họa rời **NVIDIA RTX Series** (tối thiểu 6GB VRAM), Màn hình lớn $\ge 15.6$ inch chuẩn màu cao (IPS/OLED $\ge$ 100% sRGB/DCI-P3), RAM tối thiểu 16GB.
 
-### 🛠️ Cấu hình khuyến nghị:
-* **CPU:** Intel Core i7 / i9 (Thế hệ 13, 14 trở lên) hoặc AMD Ryzen 7 / 9 (Series 7000, 8000).
-* **GPU (Card đồ họa rời - Bắt buộc):** NVIDIA GeForce RTX 3060, RTX 4050, RTX 4060 trở lên (VRAM tối thiểu 6GB). *Hạn chế dùng GPU tích hợp.*
-* **RAM:** Tối thiểu **16GB** (Khuyến nghị **32GB** để Render 3D và dựng video kỹ xảo mượt mà).
-* **Ổ cứng:** SSD NVMe tối thiểu **512GB – 1TB** (nên có khe cắm nâng cấp).
-* **Màn hình (Rất quan trọng):** Kích thước 15.6 – 16 inch, tấm nền IPS hoặc OLED, độ phủ màu chuẩn **100% sRGB hoặc DCI-P3** để tránh lệch màu khi in ấn và xuất file.
-* **Gợi ý dòng máy tiêu biểu:**
-  - *Windows:* ASUS ROG Zephyrus / TUF Gaming, Lenovo Legion 5 / Slim 5, Acer Predator Helios, Dell G15 / XPS 15.
-  - *MacBook:* MacBook Pro 14"/16" (Chip M2 Pro/Max, M3 Pro/Max) — *Lưu ý: Nếu học chuyên về 3D Game Engine (Unreal Engine), laptop Windows với GPU NVIDIA RTX sẽ tương thích phần mềm tốt hơn.*
+### 🔗 Bộ lọc truy vấn CellphoneS theo phân khúc:
+
+* **Phân khúc Tiết kiệm ($\le$ 20 triệu VNĐ) — GPU RTX 3050/4050, Màn hình FHD/IPS:**
+  `https://cellphones.com.vn/laptop.html?price=0-20000000&nhu_cau_su_dung=do-hoa-ky-thuat,gaming,laptop-sang-tao-noi-dung&laptop_vga_filter=nvidia-geforce-series&laptop_screen_size_filter=tren-15-inch&dir=asc&order=filter_price`
+
+* **Phân khúc Chuyên nghiệp (> 20 triệu VNĐ) — GPU RTX 4060/4070, Màn hình 2K/2.8K/3K/OLED, Màn hình 100% sRGB:**
+  `https://cellphones.com.vn/laptop.html?price=20000000-999999999&nhu_cau_su_dung=do-hoa-ky-thuat,laptop-sang-tao-noi-dung,gaming&laptop_vga_filter=nvidia-geforce-series&laptop_resolution_filter=2k-quad-hd,wqxga,wuxga,28k,3k,4k-ultra-hd&dir=asc&order=filter_price`
+
+* **Phân khúc Apple MacBook Pro Đồ họa (Chip M2/M3 Pro/Max, Màn hình Retina chuẩn màu):**
+  `https://cellphones.com.vn/laptop/mac.html?laptop_screen_size_filter=khoang-14-inch,tren-15-inch&dir=asc&order=filter_price`
 
 ---
 
-## 💻 3. Khối Ngành Công Nghệ Thông Tin, AI, Khoa Học Máy Tính & Kỹ Thuật (FICT)
+## 💻 3. Khối Ngành CNTT, Trí Tuệ Nhân Tạo (AI) & Khoa Học Máy Tính (FICT)
 
-*Đặc thù ngành: Lập trình đa nền tảng, chạy máy ảo (Virtual Machines, Docker, WSL2), biên dịch mã nguồn, huấn luyện mô hình Machine Learning / Deep Learning, phân tích dữ liệu lớn.*
+* **Tiêu chuẩn kỹ thuật:** CPU đa nhân mạnh (Intel Core i5/i7 H-Series hoặc AMD Ryzen 5/7), RAM 16GB – 32GB (để chạy Docker, máy ảo, WSL2), GPU NVIDIA RTX (nếu học Deep Learning/AI CUDA), SSD $\ge 512\text{GB}$.
 
-### 🛠️ Cấu hình khuyến nghị:
-* **CPU:** Intel Core i5 / i7 (H / HX series) hoặc AMD Ryzen 5 / 7.
-* **RAM:** Tối thiểu **16GB** (Khuyên dùng **32GB** nếu chuyên sâu về AI, Data Science, DevOps hoặc An toàn thông tin để mở nhiều container/máy ảo).
-* **GPU:** 
-  - Nếu học lập trình phần mềm, Web/Mobile thông thường: GPU tích hợp Intel Iris Xe / AMD Radeon là đủ.
-  - Nếu học chuyên sâu **Trí tuệ nhân tạo (AI), Thị giác máy tính**: Bắt buộc có **GPU NVIDIA RTX (RTX 3050/4050 trở lên)** để tận dụng nhân CUDA khi huấn luyện mô hình.
-* **Ổ cứng:** SSD NVMe tối thiểu **512GB** (khuyên dùng 1TB để cài đặt nhiều môi trường Linux, Docker images, dataset).
-* **Bàn phím & Cổng kết nối:** Bàn phím gõ êm, hành trình phím sâu, đủ cổng USB Type-A, Type-C, HDMI, cổng mạng LAN RJ45.
-* **Gợi ý dòng máy tiêu biểu:**
-  - Lenovo ThinkPad T14 / E14 / Legion, Dell Latitude / Inspiron Plus, ASUS Vivobook Pro / TUF, Acer Swift Go, MacBook Air/Pro (Chip M2/M3).
+### 🔗 Bộ lọc truy vấn CellphoneS theo phân khúc:
+
+* **Lập trình Phần mềm, Web/Mobile, An toàn thông tin ($\le$ 20 triệu VNĐ) — RAM 16GB, CPU mạnh:**
+  `https://cellphones.com.vn/laptop.html?price=0-20000000&nhu_cau_su_dung=hoc-tap-van-phong,do-hoa-ky-thuat&laptop_screen_size_filter=khoang-14-inch,tren-15-inch&dir=asc&order=filter_price`
+
+* **Chuyên sâu Trí tuệ Nhân tạo (AI), Deep Learning, Game Development (GPU NVIDIA RTX + RAM 16GB+):**
+  `https://cellphones.com.vn/laptop.html?nhu_cau_su_dung=do-hoa-ky-thuat,gaming&laptop_vga_filter=nvidia-geforce-series&laptop_screen_size_filter=tren-15-inch&dir=asc&order=filter_price`
+
+* **Dòng Doanh nhân / Lập trình viên bền bỉ (Lenovo ThinkPad, Dell Latitude, ASUS ExpertBook):**
+  `https://cellphones.com.vn/laptop.html?manufacturer=lenovo,dell,asus&nhu_cau_su_dung=hoc-tap-van-phong,do-hoa-ky-thuat&dir=asc&order=filter_price`
 
 ---
 
 ## 📊 4. Khối Ngành Kinh Doanh, Quản Lý, Marketing & Truyền Thông (FBM & FIMC)
 
-*Đặc thù ngành: Xử lý dữ liệu bảng tính lớn (Excel, PowerBI, SPSS), thuyết trình, đồ họa 2D cơ bản (Canva, Photoshop, CapCut), chạy chiến dịch Digital Marketing.*
+* **Tiêu chuẩn kỹ thuật:** Mỏng nhẹ ($< 1.5\text{ kg}$), pin bền ($8-12$ tiếng), màn hình sắc nét chống mỏi mắt, RAM 16GB để mở nhiều tab và file phân tích dữ liệu, slide thuyết trình.
 
-### 🛠️ Cấu hình khuyến nghị:
-* **Tiêu chí ưu tiên:** Mỏng nhẹ (dưới 1.5 kg), thời lượng pin lâu (8 – 12 tiếng), màn hình sắc nét chống mỏi mắt.
-* **CPU:** Intel Core i5 / Ultra 5 hoặc AMD Ryzen 5 hoặc Apple M2 / M3.
-* **RAM:** **16GB** (giúp mở đồng thời hàng chục tab trình duyệt, công cụ phân tích và slide thuyết trình mà không bị giật lag).
-* **Ổ cứng:** SSD **512GB**.
-* **Gợi ý dòng máy tiêu biểu:**
-  - MacBook Air M2 / M3 (rất được sinh viên Kinh doanh & Marketing ưa chuộng vì pin trâu, mỏng nhẹ, sang trọng).
-  - ASUS Zenbook 14 OLED, Lenovo Yoga / ThinkBook 14, Dell Inspiron / Vostro, HP Envy / Pavilion.
+### 🔗 Bộ lọc truy vấn CellphoneS theo phân khúc:
+
+* **Phân khúc Sinh viên Tiết kiệm ($\le$ 15 triệu VNĐ) — Mỏng nhẹ, Pin tốt, RAM 16GB:**
+  `https://cellphones.com.vn/laptop.html?price=0-15000000&nhu_cau_su_dung=hoc-tap-van-phong&laptop_screen_size_filter=khoang-14-inch,khoang-13-inch&dir=asc&order=filter_price`
+
+* **Phân khúc Cao cấp & Mỏng nhẹ (15 – 25 triệu VNĐ) — Màn hình OLED / 2K, Vỏ kim loại sang trọng:**
+  `https://cellphones.com.vn/laptop.html?price=15000000-25000000&nhu_cau_su_dung=hoc-tap-van-phong,cao-cap-sang-trong&laptop_screen_size_filter=khoang-14-inch,khoang-13-inch&dir=asc&order=filter_price`
+
+* **Dòng Apple MacBook Air (M2 / M3) — Thời lượng pin 15+ tiếng, siêu mỏng nhẹ:**
+  `https://cellphones.com.vn/laptop/mac/macbook-air.html?dir=asc&order=filter_price`
 
 ---
 
 ## 🌏 5. Khối Ngành Ngôn Ngữ & Văn Hóa (FLC)
 
-*Đặc thù ngành: Tra cứu từ điển, gõ bộ gõ đa ngôn ngữ (Tiếng Trung Pinyin, Tiếng Hàn Hangeul, Tiếng Nhật Kana/Kanji), học trực tuyến, làm bài tập ngữ pháp và biên dịch tài liệu.*
+* **Tiêu chuẩn kỹ thuật:** Gõ bộ gõ đa ngữ êm ái (Pinyin, Hangeul, Kanji), máy mỏng nhẹ dễ mang lên giảng đường, pin trâu, giá hợp lý.
 
-### 🛠️ Cấu hình khuyến nghị:
-* **Tiêu chí ưu tiên:** Mỏng nhẹ, bàn phím gõ êm ái, màn hình rõ nét, pin bền bỉ cả ngày trên giảng đường.
-* **CPU:** Intel Core i3/i5 hoặc AMD Ryzen 3/5 hoặc Apple Silicon.
-* **RAM:** **8GB – 16GB**.
-* **Ổ cứng:** SSD **256GB – 512GB**.
-* **Gợi ý dòng máy tiêu biểu:**
-  - MacBook Air M1 / M2 / M3.
-  - Lenovo IdeaPad Slim / ThinkBook, ASUS Vivobook, Acer Aspire, HP Pavilion.
+### 🔗 Bộ lọc truy vấn CellphoneS theo phân khúc:
+
+* **Laptop Học Ngoại Ngữ Phổ Thông ($\le$ 15 triệu VNĐ) — ASUS Vivobook, Acer Aspire, HP Pavilion:**
+  `https://cellphones.com.vn/laptop.html?price=0-15000000&nhu_cau_su_dung=hoc-tap-van-phong&dir=asc&order=filter_price`
+
+* **Laptop Mỏng Nhẹ Nhập Khẩu Bền Bỉ (Lenovo IdeaPad Slim, Dell Inspiron 14):**
+  `https://cellphones.com.vn/laptop.html?price=12000000-20000000&manufacturer=lenovo,dell,asus,hp&nhu_cau_su_dung=hoc-tap-van-phong&laptop_screen_size_filter=khoang-14-inch&dir=asc&order=filter_price`
+
+---
+
+## 🛠️ Bảng Tra Cứu Tham Số URL CellphoneS (Dành Cho Agent Tạo Link Động)
+
+| Tham số URL | Ý nghĩa | Các giá trị phổ biến |
+| :--- | :--- | :--- |
+| `price` | Khoảng giá (VNĐ) | `0-15000000`, `15000000-20000000`, `20000000-999999999` |
+| `manufacturer` | Hãng sản xuất | `apple`, `asus`, `lenovo`, `dell`, `acer`, `hp`, `msi`, `gigabyte` |
+| `nhu_cau_su_dung` | Nhu cầu sử dụng | `do-hoa-ky-thuat`, `gaming`, `laptop-sang-tao-noi-dung`, `hoc-tap-van-phong`, `cao-cap-sang-trong` |
+| `laptop_vga_filter` | Card đồ họa (VGA) | `nvidia-geforce-series` (cho Đồ họa/AI), `card-onboard` (cho Văn phòng) |
+| `laptop_screen_size_filter` | Kích thước màn hình | `khoang-13-inch`, `khoang-14-inch`, `tren-15-inch` |
+| `laptop_resolution_filter` | Độ phân giải | `full-hd`, `2k-quad-hd`, `wqxga`, `wuxga`, `28k`, `3k`, `retina`, `4k-ultra-hd` |
+| `order` & `dir` | Sắp xếp giá | `order=filter_price&dir=asc` (Tăng dần), `dir=desc` (Giảm dần) |
