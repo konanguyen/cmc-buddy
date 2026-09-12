@@ -61,7 +61,7 @@ Kỹ năng này cung cấp câu trả lời chính xác 100%, cập nhật đầ
 * *Chi tiết xem:* [humans_of_cmcu.md](./references/humans_of_cmcu.md) và thư mục [references/articles/humans_of_cmcu/](./references/articles/humans_of_cmcu/)
 
 ### 8. 🌐 Chương Trình Tiếng Anh & Smart Campus
-* Lộ trình Tiếng Anh 4 cấp độ, chuẩn đầu ra B1 (Hệ chuẩn SM) và B2 (Hệ song ngữ GM).
+* Lộ trình Tiếng Anh 4 cấp độ, chuẩn đầu ra B1 (Trường hiện chỉ còn duy nhất hệ Chuẩn SM, giảng viên upload cả giáo trình tiếng Anh và tiếng Việt).
 * Hệ sinh thái Smart Campus (Lab AI GPU, Studio Wacom, FaceID check-in).
 * *Chi tiết xem:* [campus_tieng_anh_giang_vien.md](./references/campus_tieng_anh_giang_vien.md)
 

@@ -12,9 +12,10 @@ Trường Đại học CMC áp dụng chương trình đào tạo Tiếng Anh t�
 * **Tiếng Anh Cấp độ 3 (Level 3 - Intermediate - Tương đương B1/IELTS 5.5):** Rèn luyện kỹ năng thuyết trình, đọc hiểu tài liệu chuyên ngành, viết báo cáo ngắn.
 * **Tiếng Anh Cấp độ 4 (Level 4 - Upper-Intermediate - Tương đương B2/IELTS 6.5):** Hoàn thiện tiếng Anh học thuật và thương mại chuyên sâu (Academic & Business English).
 
-### 1.2. Chuẩn đầu ra Ngoại ngữ theo hệ đào tạo:
-* **Chương trình Chuẩn (SM - Standard Mode):** Yêu cầu chuẩn đầu ra Bậc 3/6 theo Khung năng lực ngoại ngữ Việt Nam (tương đương B1 CEFR / IELTS $\ge 4.5$ – $5.0$).
-* **Chương trình Song ngữ / Quốc tế (GM - Global Mode):** Yêu cầu chuẩn đầu ra Bậc 4/6 (tương đương B2 CEFR / IELTS $\ge 6.0$ – $6.5$), 100% các môn chuyên ngành được giảng dạy bằng tiếng Anh.
+### 1.2. Hệ đào tạo và chuẩn đầu ra Ngoại ngữ:
+* **Hệ đào tạo hiện tại:** Hiện tại Trường Đại học CMC **chỉ còn duy nhất hệ Chuẩn (SM - Standard Mode)** (không còn tuyển sinh/vận hành hệ Song ngữ Global Mode - GM).
+* **Tài liệu & Giáo trình học tập:** Đối với các môn chuyên ngành, giảng viên vẫn sẽ **upload đầy đủ cả giáo trình tiếng Anh và giáo trình tiếng Việt** lên hệ thống học tập để sinh viên tham khảo và trau dồi thuật ngữ quốc tế.
+* **Chuẩn đầu ra Ngoại ngữ:** Yêu cầu chuẩn đầu ra Bậc 3/6 theo Khung năng lực ngoại ngữ Việt Nam (tương đương B1 CEFR / IELTS $\ge 4.5$ – $5.0$). Sinh viên được đào tạo tăng cường tiếng Anh qua 4 cấp độ nền tảng.
 
 ---
 
